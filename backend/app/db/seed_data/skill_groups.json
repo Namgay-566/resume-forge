@@ -1,0 +1,849 @@
+{
+  "common": [
+    {
+      "slug": "soft-skills",
+      "name": "Soft skills",
+      "categories": [
+        "soft_skill"
+      ]
+    },
+    {
+      "slug": "workplace-skills",
+      "name": "Workplace skills",
+      "categories": [
+        "practice",
+        "tool",
+        "concept"
+      ]
+    },
+    {
+      "slug": "credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    },
+    {
+      "slug": "languages",
+      "name": "Languages",
+      "categories": [
+        "language"
+      ]
+    }
+  ],
+  "technology": [
+    {
+      "slug": "tech-languages",
+      "name": "Programming languages",
+      "categories": [
+        "language"
+      ]
+    },
+    {
+      "slug": "tech-frameworks",
+      "name": "Frameworks & libraries",
+      "categories": [
+        "framework",
+        "library"
+      ]
+    },
+    {
+      "slug": "tech-databases",
+      "name": "Databases",
+      "categories": [
+        "database"
+      ]
+    },
+    {
+      "slug": "tech-data",
+      "name": "Data & analytics",
+      "skills": [
+        "spreadsheets",
+        "statistics",
+        "pandas",
+        "data-visualization",
+        "bi-tools",
+        "data-cleaning"
+      ]
+    },
+    {
+      "slug": "tech-cloud",
+      "name": "Cloud, platforms & DevOps",
+      "categories": [
+        "platform"
+      ],
+      "skills": [
+        "docker",
+        "ci-cd",
+        "infrastructure-as-code",
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "tech-concepts",
+      "name": "Engineering concepts",
+      "categories": [
+        "concept"
+      ]
+    },
+    {
+      "slug": "tech-tools",
+      "name": "Tools & practices",
+      "categories": [
+        "tool",
+        "practice"
+      ]
+    },
+    {
+      "slug": "tech-it-support",
+      "name": "IT support",
+      "skills": [
+        "it-troubleshooting",
+        "help-desk-ticketing",
+        "operating-systems",
+        "active-directory"
+      ]
+    },
+    {
+      "slug": "tech-product",
+      "name": "Product & delivery",
+      "skills": [
+        "product-strategy",
+        "agile-methods"
+      ]
+    },
+    {
+      "slug": "tech-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    }
+  ],
+  "healthcare": [
+    {
+      "slug": "hc-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    },
+    {
+      "slug": "hc-clinical",
+      "name": "Clinical skills",
+      "categories": [
+        "clinical"
+      ],
+      "skills": [
+        "patient-assessment",
+        "medication-administration",
+        "infection-control"
+      ]
+    },
+    {
+      "slug": "hc-patient-care",
+      "name": "Patient care",
+      "skills": [
+        "patient-care",
+        "rehabilitation"
+      ]
+    },
+    {
+      "slug": "hc-procedures",
+      "name": "Procedures",
+      "skills": [
+        "phlebotomy",
+        "dispensing",
+        "dental-procedures"
+      ]
+    },
+    {
+      "slug": "hc-records",
+      "name": "Records & regulations",
+      "categories": [
+        "tool",
+        "concept",
+        "practice"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "slug": "ed-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    },
+    {
+      "slug": "ed-teaching",
+      "name": "Teaching practice",
+      "categories": [
+        "practice"
+      ],
+      "skills": [
+        "lesson-planning",
+        "classroom-management",
+        "differentiated-instruction"
+      ]
+    },
+    {
+      "slug": "ed-assessment",
+      "name": "Assessment & inclusion",
+      "skills": [
+        "student-assessment",
+        "special-educational-needs"
+      ]
+    },
+    {
+      "slug": "ed-knowledge",
+      "name": "Subject knowledge & child development",
+      "categories": [
+        "concept"
+      ]
+    },
+    {
+      "slug": "ed-edtech",
+      "name": "Classroom technology",
+      "categories": [
+        "tool"
+      ]
+    },
+    {
+      "slug": "ed-relationships",
+      "name": "Working with pupils & parents",
+      "categories": [
+        "soft_skill"
+      ]
+    }
+  ],
+  "finance-accounting": [
+    {
+      "slug": "fin-accounting",
+      "name": "Accounting & bookkeeping",
+      "categories": [
+        "practice"
+      ],
+      "skills": [
+        "financial-reporting",
+        "bookkeeping",
+        "accounts-payable-receivable",
+        "payroll-processing",
+        "cash-handling"
+      ]
+    },
+    {
+      "slug": "fin-standards",
+      "name": "Accounting standards & regulations",
+      "categories": [
+        "concept"
+      ],
+      "skills": [
+        "gaap-ifrs",
+        "internal-controls",
+        "taxation",
+        "auditing"
+      ]
+    },
+    {
+      "slug": "fin-analysis",
+      "name": "Financial analysis",
+      "skills": [
+        "financial-modelling"
+      ]
+    },
+    {
+      "slug": "fin-software",
+      "name": "Finance software",
+      "categories": [
+        "tool"
+      ]
+    },
+    {
+      "slug": "fin-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    }
+  ],
+  "marketing": [
+    {
+      "slug": "mkt-digital",
+      "name": "Digital channels",
+      "skills": [
+        "digital-marketing",
+        "social-media-marketing",
+        "seo",
+        "email-marketing",
+        "paid-advertising"
+      ]
+    },
+    {
+      "slug": "mkt-content",
+      "name": "Content & brand",
+      "skills": [
+        "content-writing",
+        "brand-management"
+      ]
+    },
+    {
+      "slug": "mkt-campaigns",
+      "name": "Campaigns, research & analytics",
+      "categories": [
+        "practice"
+      ],
+      "skills": [
+        "campaign-management",
+        "market-research",
+        "marketing-analytics"
+      ]
+    },
+    {
+      "slug": "mkt-tools",
+      "name": "Marketing tools",
+      "categories": [
+        "tool"
+      ]
+    },
+    {
+      "slug": "mkt-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    }
+  ],
+  "sales": [
+    {
+      "slug": "sales-prospecting",
+      "name": "Prospecting & pipeline",
+      "skills": [
+        "prospecting",
+        "sales-pipeline-management"
+      ]
+    },
+    {
+      "slug": "sales-closing",
+      "name": "Closing & account management",
+      "categories": [
+        "practice"
+      ],
+      "skills": [
+        "closing-deals",
+        "account-management"
+      ]
+    },
+    {
+      "slug": "sales-crm",
+      "name": "CRM & sales tools",
+      "categories": [
+        "tool"
+      ],
+      "skills": [
+        "crm-software",
+        "retail-pos"
+      ]
+    },
+    {
+      "slug": "sales-product",
+      "name": "Product, retail & property",
+      "categories": [
+        "concept"
+      ],
+      "skills": [
+        "visual-merchandising",
+        "property-valuation"
+      ]
+    },
+    {
+      "slug": "sales-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    }
+  ],
+  "design-creative": [
+    {
+      "slug": "des-craft",
+      "name": "Design craft",
+      "categories": [
+        "practice",
+        "concept"
+      ],
+      "skills": [
+        "graphic-design",
+        "typography",
+        "illustration",
+        "motion-graphics"
+      ]
+    },
+    {
+      "slug": "des-ux",
+      "name": "UX & product design",
+      "skills": [
+        "user-research",
+        "wireframing-prototyping"
+      ]
+    },
+    {
+      "slug": "des-media",
+      "name": "Photo & video",
+      "skills": [
+        "photography",
+        "photo-editing",
+        "video-editing"
+      ]
+    },
+    {
+      "slug": "des-spaces",
+      "name": "Interiors & spaces",
+      "skills": [
+        "interior-design"
+      ]
+    },
+    {
+      "slug": "des-portfolio",
+      "name": "Portfolio & briefs",
+      "skills": [
+        "design-portfolio",
+        "creative-briefs"
+      ]
+    },
+    {
+      "slug": "des-tools",
+      "name": "Design tools",
+      "categories": [
+        "tool"
+      ]
+    },
+    {
+      "slug": "des-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    }
+  ],
+  "engineering": [
+    {
+      "slug": "eng-design",
+      "name": "Design & analysis",
+      "categories": [
+        "practice"
+      ],
+      "skills": [
+        "mechanical-design",
+        "structural-analysis",
+        "circuit-design",
+        "process-engineering"
+      ]
+    },
+    {
+      "slug": "eng-quality",
+      "name": "Quality & improvement",
+      "skills": [
+        "quality-management",
+        "root-cause-analysis"
+      ]
+    },
+    {
+      "slug": "eng-drawings",
+      "name": "Drawings, codes & standards",
+      "categories": [
+        "concept"
+      ],
+      "skills": [
+        "technical-drawing",
+        "building-codes"
+      ]
+    },
+    {
+      "slug": "eng-software",
+      "name": "Engineering software",
+      "categories": [
+        "tool"
+      ]
+    },
+    {
+      "slug": "eng-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    }
+  ],
+  "hospitality": [
+    {
+      "slug": "hosp-service",
+      "name": "Guest service",
+      "skills": [
+        "table-service",
+        "barista-skills",
+        "front-desk-operations"
+      ]
+    },
+    {
+      "slug": "hosp-kitchen",
+      "name": "Kitchen",
+      "skills": [
+        "food-preparation",
+        "menu-planning"
+      ]
+    },
+    {
+      "slug": "hosp-food-safety",
+      "name": "Food & drink safety",
+      "skills": [
+        "food-hygiene-certificate",
+        "alcohol-service-certification"
+      ]
+    },
+    {
+      "slug": "hosp-operations",
+      "name": "Operations",
+      "categories": [
+        "practice",
+        "tool"
+      ],
+      "skills": [
+        "event-planning",
+        "housekeeping-standards",
+        "inventory-management",
+        "property-management-system"
+      ]
+    },
+    {
+      "slug": "hosp-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    }
+  ],
+  "skilled-trades": [
+    {
+      "slug": "trade-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    },
+    {
+      "slug": "trade-electrical",
+      "name": "Electrical",
+      "skills": [
+        "electrical-installation",
+        "electrical-codes"
+      ]
+    },
+    {
+      "slug": "trade-plumbing",
+      "name": "Plumbing, heating & cooling",
+      "skills": [
+        "pipe-installation",
+        "hvac-systems"
+      ]
+    },
+    {
+      "slug": "trade-construction",
+      "name": "Construction & fabrication",
+      "categories": [
+        "practice",
+        "tool"
+      ],
+      "skills": [
+        "carpentry",
+        "welding",
+        "blueprint-reading",
+        "power-tools"
+      ]
+    },
+    {
+      "slug": "trade-automotive",
+      "name": "Automotive",
+      "skills": [
+        "vehicle-diagnostics",
+        "vehicle-maintenance"
+      ]
+    }
+  ],
+  "legal": [
+    {
+      "slug": "legal-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    },
+    {
+      "slug": "legal-research",
+      "name": "Legal research & drafting",
+      "skills": [
+        "legal-research",
+        "legal-writing"
+      ]
+    },
+    {
+      "slug": "legal-law",
+      "name": "Law & compliance",
+      "categories": [
+        "concept"
+      ],
+      "skills": [
+        "contract-law",
+        "regulatory-compliance"
+      ]
+    },
+    {
+      "slug": "legal-casework",
+      "name": "Case work & systems",
+      "categories": [
+        "practice",
+        "tool"
+      ],
+      "skills": [
+        "litigation-support",
+        "case-management-software"
+      ]
+    },
+    {
+      "slug": "legal-conduct",
+      "name": "Professional conduct",
+      "categories": [
+        "soft_skill"
+      ]
+    }
+  ],
+  "government": [
+    {
+      "slug": "gov-policy",
+      "name": "Policy & administration",
+      "categories": [
+        "concept"
+      ],
+      "skills": [
+        "policy-analysis",
+        "public-administration",
+        "report-writing"
+      ]
+    },
+    {
+      "slug": "gov-community",
+      "name": "Casework & community",
+      "skills": [
+        "case-management",
+        "community-engagement"
+      ]
+    },
+    {
+      "slug": "gov-programmes",
+      "name": "Programmes & funding",
+      "categories": [
+        "practice"
+      ],
+      "skills": [
+        "grant-management"
+      ]
+    },
+    {
+      "slug": "gov-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    }
+  ],
+  "research-academia": [
+    {
+      "slug": "res-methods",
+      "name": "Research methods & analysis",
+      "categories": [
+        "tool"
+      ],
+      "skills": [
+        "research-methods",
+        "literature-review",
+        "statistical-software"
+      ]
+    },
+    {
+      "slug": "res-lab",
+      "name": "Laboratory",
+      "skills": [
+        "laboratory-techniques",
+        "lab-safety"
+      ]
+    },
+    {
+      "slug": "res-writing",
+      "name": "Writing & funding",
+      "skills": [
+        "academic-writing",
+        "grant-writing"
+      ]
+    },
+    {
+      "slug": "res-clinical",
+      "name": "Clinical research",
+      "skills": [
+        "clinical-trial-coordination",
+        "good-clinical-practice"
+      ]
+    },
+    {
+      "slug": "res-teaching",
+      "name": "Teaching",
+      "categories": [
+        "practice"
+      ],
+      "skills": [
+        "university-teaching"
+      ]
+    },
+    {
+      "slug": "res-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    }
+  ],
+  "customer-service": [
+    {
+      "slug": "cs-contact",
+      "name": "Customer contact",
+      "categories": [
+        "practice"
+      ],
+      "skills": [
+        "call-handling",
+        "reception-duties",
+        "typing-speed"
+      ]
+    },
+    {
+      "slug": "cs-resolution",
+      "name": "Resolution & success",
+      "skills": [
+        "complaint-resolution",
+        "customer-success"
+      ]
+    },
+    {
+      "slug": "cs-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    }
+  ],
+  "operations-logistics": [
+    {
+      "slug": "ops-supply",
+      "name": "Supply chain & procurement",
+      "skills": [
+        "supply-chain-management",
+        "procurement"
+      ]
+    },
+    {
+      "slug": "ops-logistics",
+      "name": "Logistics & warehouse",
+      "categories": [
+        "practice"
+      ],
+      "skills": [
+        "logistics-coordination",
+        "warehouse-operations",
+        "route-planning"
+      ]
+    },
+    {
+      "slug": "ops-improvement",
+      "name": "Process improvement",
+      "skills": [
+        "process-improvement"
+      ]
+    },
+    {
+      "slug": "ops-systems",
+      "name": "Systems",
+      "categories": [
+        "tool"
+      ]
+    },
+    {
+      "slug": "ops-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    }
+  ],
+  "human-resources": [
+    {
+      "slug": "hr-recruitment",
+      "name": "Recruitment & onboarding",
+      "skills": [
+        "recruitment",
+        "onboarding"
+      ]
+    },
+    {
+      "slug": "hr-relations",
+      "name": "Employee relations & law",
+      "categories": [
+        "concept"
+      ],
+      "skills": [
+        "employee-relations",
+        "employment-law"
+      ]
+    },
+    {
+      "slug": "hr-people",
+      "name": "Performance, pay & learning",
+      "categories": [
+        "practice"
+      ],
+      "skills": [
+        "performance-management",
+        "compensation-benefits",
+        "training-delivery"
+      ]
+    },
+    {
+      "slug": "hr-systems",
+      "name": "HR systems",
+      "categories": [
+        "tool"
+      ]
+    },
+    {
+      "slug": "hr-credentials",
+      "name": "Credentials",
+      "categories": [
+        "license",
+        "certification"
+      ]
+    }
+  ]
+}

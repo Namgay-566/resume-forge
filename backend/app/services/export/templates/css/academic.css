@@ -1,0 +1,28 @@
+/* Academic CV: long format. Roomy serif, left-aligned header, ruled headings, clear
+   separation between many entries (publications, talks, grants). Keep @page and
+   --rf-page-margin equal. */
+@page {
+  size: A4;
+  margin: 22mm 22mm;
+}
+.rf-template-academic {
+  --rf-page-margin: 22mm 22mm;
+  --rf-font: "Times New Roman", "Liberation Serif", Times, serif;
+  --rf-font-size: 11pt;
+  --rf-line-height: 1.4;
+  --rf-name-size: 18pt;
+  --rf-heading-size: 11pt;
+  --rf-section-gap: 14pt;
+  --rf-entry-gap: 6pt;
+}
+.rf-template-academic .rf-heading {
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 12pt;
+  border-bottom-width: 0.5pt;
+  padding-bottom: 1pt;
+  margin-bottom: 6pt;
+}
+.rf-template-academic .rf-entry-sub {
+  font-style: normal;
+}

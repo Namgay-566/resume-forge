@@ -1,0 +1,216 @@
+[
+  {
+    "industry": "human-resources",
+    "slug": "hr-generalist",
+    "name": "HR Generalist",
+    "seniority": "mid",
+    "description": "Handles the full range of HR work: policies, employee questions, hiring support and compliance.",
+    "skills": [
+      {
+        "skill": "employee-relations",
+        "importance": "critical"
+      },
+      {
+        "skill": "employment-law",
+        "importance": "critical"
+      },
+      {
+        "skill": "hris",
+        "importance": "important"
+      },
+      {
+        "skill": "onboarding",
+        "importance": "important"
+      },
+      {
+        "skill": "confidentiality",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "hr-certification",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "human-resources",
+    "slug": "recruiter",
+    "name": "Recruiter",
+    "seniority": "mid",
+    "description": "Finds, screens and interviews candidates and guides them through to an offer.",
+    "skills": [
+      {
+        "skill": "recruitment",
+        "importance": "critical"
+      },
+      {
+        "skill": "communication",
+        "importance": "critical"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "important"
+      },
+      {
+        "skill": "negotiation",
+        "importance": "important"
+      },
+      {
+        "skill": "crm-software",
+        "importance": "important"
+      },
+      {
+        "skill": "time-management",
+        "importance": "important"
+      },
+      {
+        "skill": "employment-law",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "human-resources",
+    "slug": "hr-assistant",
+    "name": "HR Assistant",
+    "seniority": "entry",
+    "description": "Supports the HR team with records, onboarding paperwork, scheduling and employee questions.",
+    "skills": [
+      {
+        "skill": "hris",
+        "importance": "important"
+      },
+      {
+        "skill": "data-entry",
+        "importance": "critical"
+      },
+      {
+        "skill": "confidentiality",
+        "importance": "critical"
+      },
+      {
+        "skill": "onboarding",
+        "importance": "important"
+      },
+      {
+        "skill": "organisation",
+        "importance": "important"
+      },
+      {
+        "skill": "microsoft-office",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "human-resources",
+    "slug": "training-specialist",
+    "name": "Training & Development Specialist",
+    "seniority": "mid",
+    "description": "Designs and delivers training that builds employees' skills.",
+    "skills": [
+      {
+        "skill": "training-delivery",
+        "importance": "critical"
+      },
+      {
+        "skill": "presentation-skills",
+        "importance": "critical"
+      },
+      {
+        "skill": "lesson-planning",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "project-management",
+        "importance": "important"
+      },
+      {
+        "skill": "educational-technology",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "human-resources",
+    "slug": "hr-manager",
+    "name": "HR Manager",
+    "seniority": "senior",
+    "description": "Leads HR for an organisation or team: strategy, policies, people issues and compliance.",
+    "skills": [
+      {
+        "skill": "employee-relations",
+        "importance": "critical"
+      },
+      {
+        "skill": "employment-law",
+        "importance": "critical"
+      },
+      {
+        "skill": "leadership",
+        "importance": "critical"
+      },
+      {
+        "skill": "performance-management",
+        "importance": "important"
+      },
+      {
+        "skill": "compensation-benefits",
+        "importance": "important"
+      },
+      {
+        "skill": "hr-certification",
+        "importance": "important"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "important"
+      }
+    ]
+  },
+  {
+    "industry": "human-resources",
+    "slug": "benefits-administrator",
+    "name": "Benefits Administrator",
+    "seniority": "mid",
+    "description": "Runs employee benefit programmes and helps staff understand and use them.",
+    "skills": [
+      {
+        "skill": "compensation-benefits",
+        "importance": "critical"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "critical"
+      },
+      {
+        "skill": "hris",
+        "importance": "important"
+      },
+      {
+        "skill": "employment-law",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

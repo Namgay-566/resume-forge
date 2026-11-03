@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "patience-with-learners",
+    "name": "Patience with Learners",
+    "category": "soft_skill",
+    "aliases": [
+      "patience",
+      "supporting learners"
+    ]
+  },
+  {
+    "slug": "teaching-certification",
+    "name": "Teaching Certification",
+    "category": "license",
+    "aliases": [
+      "teaching license",
+      "qualified teacher status",
+      "qts",
+      "pgce",
+      "teaching credential",
+      "b.ed"
+    ]
+  },
+  {
+    "slug": "lesson-planning",
+    "name": "Lesson Planning",
+    "category": "practice",
+    "aliases": [
+      "curriculum planning",
+      "scheme of work",
+      "unit planning"
+    ]
+  },
+  {
+    "slug": "classroom-management",
+    "name": "Classroom Management",
+    "category": "practice",
+    "aliases": [
+      "behaviour management",
+      "behavior management"
+    ]
+  },
+  {
+    "slug": "student-assessment",
+    "name": "Student Assessment",
+    "category": "practice",
+    "aliases": [
+      "marking",
+      "grading",
+      "formative assessment",
+      "progress tracking"
+    ]
+  },
+  {
+    "slug": "differentiated-instruction",
+    "name": "Differentiated Instruction",
+    "category": "practice",
+    "aliases": [
+      "differentiation",
+      "inclusive teaching",
+      "adaptive teaching"
+    ]
+  },
+  {
+    "slug": "special-educational-needs",
+    "name": "Special Educational Needs Support",
+    "category": "practice",
+    "aliases": [
+      "sen",
+      "send",
+      "iep",
+      "individualized education program",
+      "special education"
+    ]
+  },
+  {
+    "slug": "early-childhood-development",
+    "name": "Early Childhood Development",
+    "category": "concept",
+    "aliases": [
+      "child development",
+      "eyfs",
+      "early years foundation stage"
+    ]
+  },
+  {
+    "slug": "subject-knowledge",
+    "name": "Subject Expertise",
+    "category": "concept",
+    "aliases": [
+      "subject knowledge",
+      "curriculum knowledge"
+    ]
+  },
+  {
+    "slug": "educational-technology",
+    "name": "Educational Technology",
+    "category": "tool",
+    "aliases": [
+      "google classroom",
+      "microsoft teams for education",
+      "lms",
+      "moodle",
+      "canvas"
+    ]
+  },
+  {
+    "slug": "parent-communication",
+    "name": "Parent Communication",
+    "category": "soft_skill",
+    "aliases": [
+      "parent engagement",
+      "family engagement"
+    ]
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "industry": "finance-accounting",
+    "slug": "accountant",
+    "name": "Accountant",
+    "seniority": "mid",
+    "description": "Keeps an organisation's books accurate, prepares financial statements and tax filings, and advises on money matters.",
+    "skills": [
+      {
+        "skill": "financial-reporting",
+        "importance": "critical"
+      },
+      {
+        "skill": "bookkeeping",
+        "importance": "critical"
+      },
+      {
+        "skill": "gaap-ifrs",
+        "importance": "critical"
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "critical"
+      },
+      {
+        "skill": "accounting-software",
+        "importance": "important"
+      },
+      {
+        "skill": "taxation",
+        "importance": "important"
+      },
+      {
+        "skill": "cpa-ca-acca",
+        "importance": "critical"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "finance-accounting",
+    "slug": "financial-analyst",
+    "name": "Financial Analyst",
+    "seniority": "mid",
+    "description": "Analyses financial data, builds forecasts and models, and turns numbers into recommendations.",
+    "skills": [
+      {
+        "skill": "financial-modelling",
+        "importance": "critical"
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "critical"
+      },
+      {
+        "skill": "financial-reporting",
+        "importance": "important"
+      },
+      {
+        "skill": "data-visualization",
+        "importance": "important"
+      },
+      {
+        "skill": "presentation-skills",
+        "importance": "important"
+      },
+      {
+        "skill": "critical-thinking",
+        "importance": "important"
+      },
+      {
+        "skill": "sql",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "cfa",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "finance-accounting",
+    "slug": "bookkeeper",
+    "name": "Bookkeeper",
+    "seniority": "mid",
+    "description": "Records daily transactions, reconciles accounts and keeps financial records up to date.",
+    "skills": [
+      {
+        "skill": "bookkeeping",
+        "importance": "critical"
+      },
+      {
+        "skill": "accounting-software",
+        "importance": "critical"
+      },
+      {
+        "skill": "accounts-payable-receivable",
+        "importance": "important"
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "critical"
+      },
+      {
+        "skill": "payroll-processing",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "taxation",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "finance-accounting",
+    "slug": "auditor",
+    "name": "Auditor",
+    "seniority": "mid",
+    "description": "Examines financial records and controls to confirm they are accurate and compliant.",
+    "skills": [
+      {
+        "skill": "auditing",
+        "importance": "critical"
+      },
+      {
+        "skill": "gaap-ifrs",
+        "importance": "critical"
+      },
+      {
+        "skill": "internal-controls",
+        "importance": "critical"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "critical-thinking",
+        "importance": "important"
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "important"
+      },
+      {
+        "skill": "written-communication",
+        "importance": "important"
+      },
+      {
+        "skill": "cpa-ca-acca",
+        "importance": "important"
+      }
+    ]
+  },
+  {
+    "industry": "finance-accounting",
+    "slug": "payroll-specialist",
+    "name": "Payroll Specialist",
+    "seniority": "mid",
+    "description": "Makes sure everyone is paid correctly and on time, with the right tax and benefit deductions.",
+    "skills": [
+      {
+        "skill": "payroll-processing",
+        "importance": "critical"
+      },
+      {
+        "skill": "taxation",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "critical"
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "important"
+      },
+      {
+        "skill": "accounting-software",
+        "importance": "important"
+      },
+      {
+        "skill": "data-entry",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "finance-accounting",
+    "slug": "bank-teller",
+    "name": "Bank Teller",
+    "seniority": "entry",
+    "description": "Serves customers at a bank branch: deposits, withdrawals, payments and account questions.",
+    "skills": [
+      {
+        "skill": "cash-handling",
+        "importance": "critical"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "critical"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "data-entry",
+        "importance": "important"
+      },
+      {
+        "skill": "time-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

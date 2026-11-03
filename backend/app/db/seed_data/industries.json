@@ -1,0 +1,334 @@
+[
+  {
+    "slug": "technology",
+    "name": "Technology",
+    "description": "Software, data, IT and product roles.",
+    "sections": [
+      "summary",
+      "skills",
+      "experience",
+      "projects",
+      "education",
+      "certifications"
+    ],
+    "reviewer": "a senior engineer and hiring manager in software, data and IT",
+    "impact": "features shipped, users served, performance and reliability gains, time or cost saved, defects reduced, systems supported",
+    "template": "modern_minimal",
+    "profile_links": [
+      "LinkedIn",
+      "GitHub",
+      "GitLab",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "healthcare",
+    "name": "Healthcare",
+    "description": "Clinical, care, pharmacy and health administration roles.",
+    "sections": [
+      "summary",
+      "certifications",
+      "clinical_experience",
+      "experience",
+      "education",
+      "skills",
+      "memberships"
+    ],
+    "reviewer": "a senior nurse, clinical educator and healthcare hiring manager who assesses clinical competence",
+    "impact": "patient outcomes, patient safety and incidents avoided, quality of care, number of patients cared for, audit and compliance results, waiting times",
+    "template": "classic",
+    "profile_links": [
+      "LinkedIn",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "education",
+    "name": "Education",
+    "description": "Teaching, tutoring and support roles in schools, early years and beyond.",
+    "sections": [
+      "summary",
+      "certifications",
+      "teaching_experience",
+      "experience",
+      "education",
+      "skills",
+      "training"
+    ],
+    "reviewer": "an experienced head teacher and teacher mentor who observes lessons and reviews planning",
+    "impact": "student progress and results, attainment and exam pass rates, attendance and engagement, class sizes, lesson observation feedback, curriculum developed",
+    "template": "classic",
+    "profile_links": [
+      "LinkedIn",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "finance-accounting",
+    "name": "Finance & Accounting",
+    "description": "Accounting, audit, analysis, payroll and banking roles.",
+    "sections": [
+      "summary",
+      "experience",
+      "certifications",
+      "education",
+      "skills"
+    ],
+    "reviewer": "a chartered accountant and finance manager who hires and supervises accountants",
+    "impact": "accuracy, audit findings, month-end close time, errors reduced, cost savings, compliance, value of accounts or budgets managed",
+    "template": "conservative",
+    "profile_links": [
+      "LinkedIn",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "marketing",
+    "name": "Marketing",
+    "description": "Brand, digital, content and campaign roles.",
+    "sections": [
+      "summary",
+      "experience",
+      "portfolio",
+      "skills",
+      "education",
+      "certifications"
+    ],
+    "reviewer": "a marketing director who hires marketers and reviews campaigns, content and results",
+    "impact": "leads generated, conversion rates, reach and engagement, campaign ROI, traffic growth, cost per acquisition, audience growth",
+    "template": "professional",
+    "profile_links": [
+      "LinkedIn",
+      "Portfolio",
+      "Personal website",
+      "Medium"
+    ]
+  },
+  {
+    "slug": "sales",
+    "name": "Sales",
+    "description": "Selling, account management and business development roles.",
+    "sections": [
+      "summary",
+      "experience",
+      "skills",
+      "awards",
+      "education"
+    ],
+    "reviewer": "a sales director who hires and coaches sales people",
+    "impact": "revenue closed, quota attainment, pipeline built, leads and meetings booked, conversion and win rates, deal size, accounts retained",
+    "template": "professional",
+    "profile_links": [
+      "LinkedIn",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "design-creative",
+    "name": "Design & Creative",
+    "description": "Visual design, UX, media and creative production roles.",
+    "sections": [
+      "summary",
+      "portfolio",
+      "experience",
+      "skills",
+      "education",
+      "awards"
+    ],
+    "reviewer": "a creative director who reviews portfolios and hires designers and creatives",
+    "impact": "projects delivered, client or user feedback, engagement with the work, usability improvements, awards, deadlines met",
+    "template": "modern_minimal",
+    "profile_links": [
+      "LinkedIn",
+      "Behance",
+      "Dribbble",
+      "Portfolio",
+      "Instagram",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "engineering",
+    "name": "Engineering",
+    "description": "Mechanical, civil, electrical, chemical and quality engineering roles.",
+    "sections": [
+      "summary",
+      "experience",
+      "projects",
+      "education",
+      "certifications",
+      "skills",
+      "memberships"
+    ],
+    "reviewer": "a chartered engineer and engineering manager who reviews technical work and designs",
+    "impact": "designs delivered, safety and compliance, cost and material savings, efficiency gains, defects or failures reduced, project value and timelines",
+    "template": "professional",
+    "profile_links": [
+      "LinkedIn",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "hospitality",
+    "name": "Hospitality",
+    "description": "Hotels, restaurants, cafés, events and tourism roles.",
+    "sections": [
+      "summary",
+      "experience",
+      "skills",
+      "certifications",
+      "education",
+      "languages"
+    ],
+    "reviewer": "an experienced hospitality operations manager who hires kitchen, front-of-house and hotel staff",
+    "impact": "guest satisfaction and reviews, covers or rooms served, repeat guests, food safety and hygiene ratings, upselling, speed of service",
+    "template": "professional",
+    "profile_links": [
+      "LinkedIn",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "skilled-trades",
+    "name": "Skilled Trades",
+    "description": "Electrical, plumbing, construction, mechanical and repair trades.",
+    "sections": [
+      "summary",
+      "certifications",
+      "experience",
+      "skills",
+      "training",
+      "education"
+    ],
+    "reviewer": "a master tradesperson and site supervisor who inspects work and trains apprentices",
+    "impact": "jobs completed, quality and inspection results, safety record, time and materials saved, compliance with codes, repeat customers",
+    "template": "classic",
+    "profile_links": [
+      "LinkedIn",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "legal",
+    "name": "Legal",
+    "description": "Legal practice, support and compliance roles.",
+    "sections": [
+      "summary",
+      "certifications",
+      "experience",
+      "education",
+      "skills",
+      "memberships"
+    ],
+    "reviewer": "a senior lawyer and legal recruiter who reviews drafting, research and qualifications",
+    "impact": "cases or matters handled, outcomes achieved, contracts drafted or negotiated, deadlines met, risk reduced, compliance",
+    "template": "conservative",
+    "profile_links": [
+      "LinkedIn",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "government",
+    "name": "Government & Public Sector",
+    "description": "Policy, public administration, social services and public safety roles.",
+    "sections": [
+      "summary",
+      "experience",
+      "education",
+      "skills",
+      "certifications",
+      "volunteer"
+    ],
+    "reviewer": "a senior public-sector manager who hires for policy, administration and frontline services",
+    "impact": "people and communities served, policies or programmes delivered, service targets met, processing times, budgets managed, compliance",
+    "template": "conservative",
+    "profile_links": [
+      "LinkedIn",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "research-academia",
+    "name": "Research & Academia",
+    "description": "Research, laboratory and university teaching roles.",
+    "sections": [
+      "summary",
+      "education",
+      "publications",
+      "research",
+      "conferences",
+      "teaching_experience",
+      "awards",
+      "skills"
+    ],
+    "reviewer": "a professor and principal investigator who reviews research, publications and teaching",
+    "impact": "publications, grants won, studies completed, students taught or supervised, citations, methods developed, presentations given",
+    "template": "academic",
+    "profile_links": [
+      "LinkedIn",
+      "ORCID",
+      "Google Scholar",
+      "ResearchGate",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "customer-service",
+    "name": "Customer Service",
+    "description": "Support, contact centre, reception and customer success roles.",
+    "sections": [
+      "summary",
+      "experience",
+      "skills",
+      "languages",
+      "education"
+    ],
+    "reviewer": "a customer service manager who hires, coaches and quality-checks support staff",
+    "impact": "customer satisfaction scores, resolution rates, first-contact resolution, response times, volume of contacts handled, complaints resolved",
+    "template": "professional",
+    "profile_links": [
+      "LinkedIn",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "operations-logistics",
+    "name": "Operations & Logistics",
+    "description": "Operations, supply chain, warehousing, procurement and transport roles.",
+    "sections": [
+      "summary",
+      "experience",
+      "certifications",
+      "skills",
+      "education"
+    ],
+    "reviewer": "an operations and supply chain manager who hires and assesses logistics staff",
+    "impact": "on-time delivery, cost reduction, inventory accuracy, throughput, safety record, process improvements, suppliers managed",
+    "template": "professional",
+    "profile_links": [
+      "LinkedIn",
+      "Personal website"
+    ]
+  },
+  {
+    "slug": "human-resources",
+    "name": "Human Resources",
+    "description": "HR, recruitment, learning and people operations roles.",
+    "sections": [
+      "summary",
+      "experience",
+      "certifications",
+      "skills",
+      "education",
+      "memberships"
+    ],
+    "reviewer": "an HR director who hires HR staff and reviews people-management work",
+    "impact": "roles filled and time to hire, retention, engagement scores, employee relations cases resolved, training delivered, policy compliance",
+    "template": "professional",
+    "profile_links": [
+      "LinkedIn",
+      "Personal website"
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "slug": "resilience-under-rejection",
+    "name": "Resilience Under Rejection",
+    "category": "soft_skill",
+    "aliases": [
+      "handling rejection",
+      "persistence",
+      "self-motivation",
+      "self-motivated"
+    ]
+  },
+  {
+    "slug": "prospecting",
+    "name": "Prospecting",
+    "category": "practice",
+    "aliases": [
+      "lead generation",
+      "cold calling",
+      "outbound sales",
+      "cold outreach"
+    ]
+  },
+  {
+    "slug": "sales-pipeline-management",
+    "name": "Pipeline Management",
+    "category": "practice",
+    "aliases": [
+      "sales pipeline",
+      "forecasting sales",
+      "deal management"
+    ]
+  },
+  {
+    "slug": "closing-deals",
+    "name": "Closing Deals",
+    "category": "practice",
+    "aliases": [
+      "closing",
+      "sales closing",
+      "hitting targets",
+      "quota attainment"
+    ]
+  },
+  {
+    "slug": "product-knowledge",
+    "name": "Product Knowledge",
+    "category": "concept",
+    "aliases": [
+      "product expertise"
+    ]
+  },
+  {
+    "slug": "account-management",
+    "name": "Account Management",
+    "category": "practice",
+    "aliases": [
+      "client retention",
+      "upselling",
+      "key accounts"
+    ]
+  },
+  {
+    "slug": "retail-pos",
+    "name": "Point of Sale Systems",
+    "category": "tool",
+    "aliases": [
+      "pos",
+      "till",
+      "cash register",
+      "square"
+    ]
+  },
+  {
+    "slug": "visual-merchandising",
+    "name": "Visual Merchandising",
+    "category": "practice",
+    "aliases": [
+      "merchandising",
+      "store displays",
+      "stock replenishment"
+    ]
+  },
+  {
+    "slug": "real-estate-license",
+    "name": "Real Estate License",
+    "category": "license",
+    "aliases": [
+      "real estate agent license",
+      "realtor license",
+      "estate agency qualification"
+    ]
+  },
+  {
+    "slug": "property-valuation",
+    "name": "Property Valuation",
+    "category": "practice",
+    "aliases": [
+      "market appraisal",
+      "comparative market analysis",
+      "cma"
+    ]
+  }
+]

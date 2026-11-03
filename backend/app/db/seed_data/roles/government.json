@@ -1,0 +1,195 @@
+[
+  {
+    "industry": "government",
+    "slug": "policy-analyst",
+    "name": "Policy Analyst",
+    "seniority": "mid",
+    "description": "Researches issues and writes evidence-based advice for decision makers.",
+    "skills": [
+      {
+        "skill": "policy-analysis",
+        "importance": "critical"
+      },
+      {
+        "skill": "report-writing",
+        "importance": "critical"
+      },
+      {
+        "skill": "critical-thinking",
+        "importance": "critical"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "important"
+      },
+      {
+        "skill": "data-visualization",
+        "importance": "important"
+      },
+      {
+        "skill": "presentation-skills",
+        "importance": "important"
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "government",
+    "slug": "administrative-officer",
+    "name": "Administrative Officer",
+    "seniority": "mid",
+    "description": "Keeps a public office running: records, correspondence, scheduling and processes.",
+    "skills": [
+      {
+        "skill": "organisation",
+        "importance": "critical"
+      },
+      {
+        "skill": "microsoft-office",
+        "importance": "critical"
+      },
+      {
+        "skill": "data-entry",
+        "importance": "important"
+      },
+      {
+        "skill": "written-communication",
+        "importance": "important"
+      },
+      {
+        "skill": "public-administration",
+        "importance": "important"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "government",
+    "slug": "social-worker",
+    "name": "Social Worker",
+    "seniority": "mid",
+    "description": "Supports individuals and families through difficult situations and protects people at risk.",
+    "skills": [
+      {
+        "skill": "social-work-license",
+        "importance": "critical"
+      },
+      {
+        "skill": "case-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "safeguarding",
+        "importance": "critical"
+      },
+      {
+        "skill": "empathy",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "report-writing",
+        "importance": "important"
+      },
+      {
+        "skill": "conflict-resolution",
+        "importance": "important"
+      },
+      {
+        "skill": "drivers-license",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "government",
+    "slug": "police-officer",
+    "name": "Police Officer",
+    "seniority": "mid",
+    "description": "Keeps communities safe by responding to incidents, investigating crime and working with the public.",
+    "skills": [
+      {
+        "skill": "law-enforcement-training",
+        "importance": "critical"
+      },
+      {
+        "skill": "physical-fitness",
+        "importance": "critical"
+      },
+      {
+        "skill": "communication",
+        "importance": "critical"
+      },
+      {
+        "skill": "conflict-resolution",
+        "importance": "important"
+      },
+      {
+        "skill": "report-writing",
+        "importance": "important"
+      },
+      {
+        "skill": "first-aid-cpr",
+        "importance": "important"
+      },
+      {
+        "skill": "drivers-license",
+        "importance": "important"
+      },
+      {
+        "skill": "critical-thinking",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "government",
+    "slug": "programme-coordinator",
+    "name": "Programme Coordinator",
+    "seniority": "mid",
+    "description": "Runs public programmes: plans activities, tracks budgets and grants, and reports on outcomes.",
+    "skills": [
+      {
+        "skill": "grant-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "organisation",
+        "importance": "critical"
+      },
+      {
+        "skill": "community-engagement",
+        "importance": "important"
+      },
+      {
+        "skill": "budgeting",
+        "importance": "important"
+      },
+      {
+        "skill": "report-writing",
+        "importance": "important"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "important"
+      },
+      {
+        "skill": "project-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

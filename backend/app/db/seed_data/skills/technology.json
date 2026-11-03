@@ -1,0 +1,516 @@
+[
+  {
+    "slug": "git",
+    "name": "Git",
+    "category": "tool",
+    "aliases": [
+      "git",
+      "github",
+      "gitlab",
+      "bitbucket",
+      "version control",
+      "source control"
+    ]
+  },
+  {
+    "slug": "html-css",
+    "name": "HTML/CSS",
+    "category": "language",
+    "aliases": [
+      "html",
+      "html5",
+      "css",
+      "css3",
+      "html/css",
+      "sass",
+      "scss",
+      "semantic html"
+    ]
+  },
+  {
+    "slug": "javascript",
+    "name": "JavaScript",
+    "category": "language",
+    "aliases": [
+      "javascript",
+      "js",
+      "es6",
+      "ecmascript",
+      "vanilla js"
+    ]
+  },
+  {
+    "slug": "typescript",
+    "name": "TypeScript",
+    "category": "language",
+    "aliases": [
+      "typescript",
+      "ts"
+    ]
+  },
+  {
+    "slug": "react",
+    "name": "React",
+    "category": "framework",
+    "aliases": [
+      "react",
+      "react.js",
+      "reactjs",
+      "react hooks"
+    ]
+  },
+  {
+    "slug": "backend-framework",
+    "name": "Backend Framework",
+    "category": "framework",
+    "aliases": [
+      "backend framework",
+      "node.js",
+      "nodejs",
+      "express",
+      "express.js",
+      "nestjs",
+      "django",
+      "flask",
+      "fastapi",
+      "spring boot",
+      "ruby on rails",
+      "rails",
+      "laravel",
+      "asp.net core"
+    ]
+  },
+  {
+    "slug": "python",
+    "name": "Python",
+    "category": "language",
+    "aliases": [
+      "python",
+      "python3"
+    ]
+  },
+  {
+    "slug": "python-web-framework",
+    "name": "Python Web Framework",
+    "category": "framework",
+    "aliases": [
+      "python web framework",
+      "django",
+      "flask",
+      "fastapi"
+    ]
+  },
+  {
+    "slug": "sql",
+    "name": "SQL",
+    "category": "database",
+    "aliases": [
+      "sql",
+      "postgres",
+      "postgresql",
+      "mysql",
+      "sqlite",
+      "mariadb",
+      "sql server",
+      "t-sql",
+      "relational databases"
+    ]
+  },
+  {
+    "slug": "orm",
+    "name": "ORM",
+    "category": "database",
+    "aliases": [
+      "orm",
+      "sqlalchemy",
+      "django orm",
+      "prisma",
+      "typeorm",
+      "sequelize",
+      "drizzle"
+    ]
+  },
+  {
+    "slug": "rest-apis",
+    "name": "REST APIs",
+    "category": "concept",
+    "aliases": [
+      "rest api",
+      "rest apis",
+      "restful",
+      "restful api",
+      "api design",
+      "http api"
+    ]
+  },
+  {
+    "slug": "authentication",
+    "name": "Authentication",
+    "category": "concept",
+    "aliases": [
+      "authentication",
+      "auth",
+      "authorization",
+      "jwt",
+      "oauth",
+      "oauth2",
+      "session management"
+    ]
+  },
+  {
+    "slug": "docker",
+    "name": "Docker",
+    "category": "tool",
+    "aliases": [
+      "docker",
+      "containers",
+      "containerization",
+      "dockerfile",
+      "docker compose"
+    ]
+  },
+  {
+    "slug": "testing",
+    "name": "Testing",
+    "category": "practice",
+    "aliases": [
+      "testing",
+      "unit testing",
+      "integration testing",
+      "e2e testing",
+      "tdd",
+      "jest",
+      "vitest",
+      "pytest",
+      "cypress",
+      "playwright",
+      "testing library"
+    ]
+  },
+  {
+    "slug": "cloud-deployment",
+    "name": "Deployment & Cloud",
+    "category": "platform",
+    "aliases": [
+      "deployment",
+      "cloud",
+      "aws",
+      "gcp",
+      "google cloud",
+      "azure",
+      "heroku",
+      "vercel",
+      "netlify",
+      "render",
+      "digitalocean"
+    ]
+  },
+  {
+    "slug": "ci-cd",
+    "name": "CI/CD",
+    "category": "practice",
+    "aliases": [
+      "ci/cd",
+      "continuous integration",
+      "continuous delivery",
+      "continuous deployment",
+      "github actions",
+      "gitlab ci",
+      "jenkins",
+      "circleci"
+    ]
+  },
+  {
+    "slug": "responsive-design",
+    "name": "Responsive Design",
+    "category": "concept",
+    "aliases": [
+      "responsive design",
+      "responsive web design",
+      "mobile-first",
+      "media queries",
+      "flexbox",
+      "css grid"
+    ]
+  },
+  {
+    "slug": "accessibility",
+    "name": "Accessibility",
+    "category": "concept",
+    "aliases": [
+      "accessibility",
+      "a11y",
+      "wcag",
+      "aria"
+    ]
+  },
+  {
+    "slug": "state-management",
+    "name": "State Management",
+    "category": "concept",
+    "aliases": [
+      "state management",
+      "redux",
+      "redux toolkit",
+      "zustand",
+      "tanstack query",
+      "react query",
+      "context api"
+    ]
+  },
+  {
+    "slug": "build-tools",
+    "name": "Build Tools",
+    "category": "tool",
+    "aliases": [
+      "build tools",
+      "vite",
+      "webpack",
+      "npm",
+      "yarn",
+      "pnpm",
+      "bundlers"
+    ]
+  },
+  {
+    "slug": "web-performance",
+    "name": "Web Performance",
+    "category": "concept",
+    "aliases": [
+      "web performance",
+      "core web vitals",
+      "lighthouse",
+      "lazy loading"
+    ]
+  },
+  {
+    "slug": "linux",
+    "name": "Linux & Shell",
+    "category": "platform",
+    "aliases": [
+      "linux",
+      "unix",
+      "bash",
+      "shell",
+      "shell scripting",
+      "command line",
+      "terminal"
+    ]
+  },
+  {
+    "slug": "caching",
+    "name": "Caching",
+    "category": "concept",
+    "aliases": [
+      "caching",
+      "redis",
+      "memcached",
+      "http caching"
+    ]
+  },
+  {
+    "slug": "networking",
+    "name": "Networking",
+    "category": "concept",
+    "aliases": [
+      "networking",
+      "dns",
+      "tcp/ip",
+      "http",
+      "https",
+      "load balancing",
+      "nginx",
+      "reverse proxy"
+    ]
+  },
+  {
+    "slug": "kubernetes",
+    "name": "Kubernetes",
+    "category": "platform",
+    "aliases": [
+      "kubernetes",
+      "k8s",
+      "helm",
+      "kubectl"
+    ]
+  },
+  {
+    "slug": "infrastructure-as-code",
+    "name": "Infrastructure as Code",
+    "category": "practice",
+    "aliases": [
+      "infrastructure as code",
+      "iac",
+      "terraform",
+      "pulumi",
+      "cloudformation",
+      "ansible"
+    ]
+  },
+  {
+    "slug": "monitoring",
+    "name": "Monitoring & Observability",
+    "category": "practice",
+    "aliases": [
+      "monitoring",
+      "observability",
+      "logging",
+      "prometheus",
+      "grafana",
+      "opentelemetry",
+      "alerting"
+    ]
+  },
+  {
+    "slug": "spreadsheets",
+    "name": "Excel / Spreadsheets",
+    "category": "tool",
+    "aliases": [
+      "excel",
+      "microsoft excel",
+      "spreadsheets",
+      "google sheets",
+      "pivot tables",
+      "vlookup",
+      "xlookup"
+    ]
+  },
+  {
+    "slug": "statistics",
+    "name": "Statistics",
+    "category": "concept",
+    "aliases": [
+      "statistics",
+      "descriptive statistics",
+      "hypothesis testing",
+      "a/b testing",
+      "regression",
+      "probability"
+    ]
+  },
+  {
+    "slug": "pandas",
+    "name": "pandas",
+    "category": "library",
+    "aliases": [
+      "pandas",
+      "numpy",
+      "dataframes",
+      "jupyter"
+    ]
+  },
+  {
+    "slug": "data-visualization",
+    "name": "Data Visualization",
+    "category": "concept",
+    "aliases": [
+      "data visualization",
+      "data viz",
+      "matplotlib",
+      "seaborn",
+      "plotly",
+      "charts"
+    ]
+  },
+  {
+    "slug": "bi-tools",
+    "name": "BI Tools",
+    "category": "tool",
+    "aliases": [
+      "bi tools",
+      "business intelligence",
+      "tableau",
+      "power bi",
+      "looker",
+      "looker studio",
+      "metabase",
+      "dashboards"
+    ]
+  },
+  {
+    "slug": "data-cleaning",
+    "name": "Data Cleaning",
+    "category": "practice",
+    "aliases": [
+      "data cleaning",
+      "data wrangling",
+      "data preparation",
+      "data quality",
+      "etl"
+    ]
+  },
+  {
+    "slug": "it-troubleshooting",
+    "name": "IT Troubleshooting",
+    "category": "practice",
+    "aliases": [
+      "technical support",
+      "hardware troubleshooting",
+      "desktop support"
+    ]
+  },
+  {
+    "slug": "help-desk-ticketing",
+    "name": "Help Desk & Ticketing Software",
+    "category": "tool",
+    "aliases": [
+      "servicenow",
+      "zendesk",
+      "freshdesk",
+      "intercom",
+      "helpdesk",
+      "jira service management",
+      "ticketing system"
+    ]
+  },
+  {
+    "slug": "operating-systems",
+    "name": "Operating Systems",
+    "category": "concept",
+    "aliases": [
+      "windows",
+      "macos",
+      "windows 10",
+      "windows 11"
+    ]
+  },
+  {
+    "slug": "active-directory",
+    "name": "Active Directory",
+    "category": "tool",
+    "aliases": [
+      "azure ad",
+      "entra id",
+      "user administration"
+    ]
+  },
+  {
+    "slug": "comptia-a-plus",
+    "name": "CompTIA A+ Certification",
+    "category": "certification",
+    "aliases": [
+      "comptia a+",
+      "a+ certification"
+    ]
+  },
+  {
+    "slug": "product-strategy",
+    "name": "Product Strategy",
+    "category": "practice",
+    "aliases": [
+      "product vision",
+      "product roadmap",
+      "roadmapping"
+    ]
+  },
+  {
+    "slug": "agile-methods",
+    "name": "Agile Methods",
+    "category": "practice",
+    "aliases": [
+      "scrum",
+      "kanban",
+      "agile"
+    ]
+  }
+]

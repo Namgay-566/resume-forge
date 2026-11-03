@@ -1,0 +1,22 @@
+/* Classic: serif, centred name, ruled section headings. Keep @page and --rf-page-margin equal. */
+@page {
+  size: A4;
+  margin: 16mm 18mm;
+}
+.rf-template-classic {
+  --rf-page-margin: 16mm 18mm;
+  --rf-font: "Times New Roman", "Liberation Serif", Times, serif;
+  --rf-font-size: 11pt;
+  --rf-line-height: 1.3;
+  --rf-name-size: 20pt;
+  --rf-heading-size: 11pt;
+  --rf-section-gap: 10pt;
+  --rf-entry-gap: 7pt;
+}
+.rf-template-classic .rf-identity {
+  text-align: center;
+}
+.rf-template-classic .rf-heading {
+  border-bottom-width: 0.75pt;
+  padding-bottom: 1pt;
+}

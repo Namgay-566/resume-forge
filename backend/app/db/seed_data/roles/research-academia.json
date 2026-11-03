@@ -1,0 +1,215 @@
+[
+  {
+    "industry": "research-academia",
+    "slug": "research-assistant",
+    "name": "Research Assistant",
+    "seniority": "entry",
+    "description": "Supports research projects by collecting and analysing data, running studies and reviewing literature.",
+    "skills": [
+      {
+        "skill": "research-methods",
+        "importance": "critical"
+      },
+      {
+        "skill": "literature-review",
+        "importance": "important"
+      },
+      {
+        "skill": "statistical-software",
+        "importance": "important"
+      },
+      {
+        "skill": "data-entry",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "academic-writing",
+        "importance": "important"
+      },
+      {
+        "skill": "organisation",
+        "importance": "nice_to_have"
+      }
+    ],
+    "sections": [
+      "summary",
+      "education",
+      "research",
+      "experience",
+      "skills",
+      "publications"
+    ]
+  },
+  {
+    "industry": "research-academia",
+    "slug": "laboratory-technician",
+    "name": "Laboratory Technician",
+    "seniority": "mid",
+    "description": "Prepares samples, runs tests and maintains equipment in a scientific or medical lab.",
+    "skills": [
+      {
+        "skill": "laboratory-techniques",
+        "importance": "critical"
+      },
+      {
+        "skill": "lab-safety",
+        "importance": "critical"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "critical"
+      },
+      {
+        "skill": "data-entry",
+        "importance": "important"
+      },
+      {
+        "skill": "research-methods",
+        "importance": "important"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "nice_to_have"
+      }
+    ],
+    "sections": [
+      "summary",
+      "experience",
+      "skills",
+      "education",
+      "certifications",
+      "training"
+    ]
+  },
+  {
+    "industry": "research-academia",
+    "slug": "postdoctoral-researcher",
+    "name": "Postdoctoral Researcher",
+    "seniority": "mid",
+    "description": "Leads research projects after a PhD, publishes findings and often supervises students.",
+    "skills": [
+      {
+        "skill": "phd",
+        "importance": "critical"
+      },
+      {
+        "skill": "research-methods",
+        "importance": "critical"
+      },
+      {
+        "skill": "academic-writing",
+        "importance": "critical"
+      },
+      {
+        "skill": "grant-writing",
+        "importance": "important"
+      },
+      {
+        "skill": "statistical-software",
+        "importance": "important"
+      },
+      {
+        "skill": "presentation-skills",
+        "importance": "important"
+      },
+      {
+        "skill": "leadership",
+        "importance": "nice_to_have"
+      }
+    ],
+    "required_sections": [
+      "publications",
+      "research"
+    ]
+  },
+  {
+    "industry": "research-academia",
+    "slug": "lecturer",
+    "name": "Lecturer",
+    "seniority": "mid",
+    "description": "Teaches university students, designs courses and carries out research in their field.",
+    "skills": [
+      {
+        "skill": "university-teaching",
+        "importance": "critical"
+      },
+      {
+        "skill": "phd",
+        "importance": "important"
+      },
+      {
+        "skill": "academic-writing",
+        "importance": "important"
+      },
+      {
+        "skill": "research-methods",
+        "importance": "important"
+      },
+      {
+        "skill": "presentation-skills",
+        "importance": "critical"
+      },
+      {
+        "skill": "student-assessment",
+        "importance": "important"
+      },
+      {
+        "skill": "grant-writing",
+        "importance": "nice_to_have"
+      }
+    ],
+    "required_sections": [
+      "publications",
+      "teaching_experience"
+    ]
+  },
+  {
+    "industry": "research-academia",
+    "slug": "clinical-research-coordinator",
+    "name": "Clinical Research Coordinator",
+    "seniority": "mid",
+    "description": "Runs clinical trials day to day: recruiting participants, managing data and following protocol.",
+    "skills": [
+      {
+        "skill": "clinical-trial-coordination",
+        "importance": "critical"
+      },
+      {
+        "skill": "good-clinical-practice",
+        "importance": "critical"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "critical"
+      },
+      {
+        "skill": "healthcare-regulations",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "electronic-health-records",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "organisation",
+        "importance": "important"
+      }
+    ],
+    "sections": [
+      "summary",
+      "experience",
+      "certifications",
+      "education",
+      "skills",
+      "research"
+    ]
+  }
+]

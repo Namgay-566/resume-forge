@@ -1,0 +1,23 @@
+Repository: {{ repo.full_name }}{% if repo.description %} - {{ repo.description }}{% endif %}
+
+Languages: {% for lang, share in repo.languages.items() %}{{ lang }} {{ share }}%{% if not loop.last %}, {% endif %}{% endfor %}
+
+Key files: {{ (repo.key_files + repo.sampled_files) | join(", ") or "unknown" }}
+Has tests: {{ repo.has_tests }}. Has CI: {{ repo.has_ci }}. Has Docker: {{ repo.has_docker }}.
+{% include "_candidate.j2" %}
+{% if summary %}
+
+Reviewer's summary: {{ summary }}
+{% endif %}
+{% if evidence %}
+
+Verified skills and evidence:
+{% for line in evidence %}
+- {{ line }}
+{% endfor %}
+{% endif %}
+
+README:
+<readme>
+{{ readme or "(none)" }}
+</readme>

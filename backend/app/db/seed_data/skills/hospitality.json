@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "food-hygiene-certificate",
+    "name": "Food Hygiene Certificate",
+    "category": "certification",
+    "aliases": [
+      "food safety certificate",
+      "food handler's card",
+      "servsafe",
+      "level 2 food hygiene",
+      "haccp"
+    ]
+  },
+  {
+    "slug": "food-preparation",
+    "name": "Food Preparation",
+    "category": "practice",
+    "aliases": [
+      "cooking",
+      "knife skills",
+      "line cooking"
+    ]
+  },
+  {
+    "slug": "menu-planning",
+    "name": "Menu Planning",
+    "category": "practice",
+    "aliases": [
+      "menu development",
+      "recipe costing"
+    ]
+  },
+  {
+    "slug": "front-desk-operations",
+    "name": "Front Desk Operations",
+    "category": "practice",
+    "aliases": [
+      "check-in",
+      "check-out",
+      "reservations",
+      "hotel front office"
+    ]
+  },
+  {
+    "slug": "property-management-system",
+    "name": "Hotel Property Management System",
+    "category": "tool",
+    "aliases": [
+      "opera pms",
+      "pms",
+      "cloudbeds"
+    ]
+  },
+  {
+    "slug": "table-service",
+    "name": "Table Service",
+    "category": "practice",
+    "aliases": [
+      "waiting tables",
+      "food service",
+      "silver service",
+      "order taking"
+    ]
+  },
+  {
+    "slug": "barista-skills",
+    "name": "Barista Skills",
+    "category": "practice",
+    "aliases": [
+      "espresso",
+      "coffee making",
+      "latte art"
+    ]
+  },
+  {
+    "slug": "alcohol-service-certification",
+    "name": "Responsible Alcohol Service Certification",
+    "category": "certification",
+    "aliases": [
+      "rsa",
+      "tips certification",
+      "personal licence",
+      "bartender license"
+    ]
+  },
+  {
+    "slug": "event-planning",
+    "name": "Event Planning",
+    "category": "practice",
+    "aliases": [
+      "event coordination",
+      "event management",
+      "venue management"
+    ]
+  },
+  {
+    "slug": "housekeeping-standards",
+    "name": "Housekeeping Standards",
+    "category": "practice",
+    "aliases": [
+      "room cleaning",
+      "housekeeping",
+      "cleaning schedules"
+    ]
+  },
+  {
+    "slug": "inventory-management",
+    "name": "Inventory Management",
+    "category": "practice",
+    "aliases": [
+      "stock control",
+      "stock management",
+      "ordering supplies",
+      "stocktaking"
+    ]
+  }
+]

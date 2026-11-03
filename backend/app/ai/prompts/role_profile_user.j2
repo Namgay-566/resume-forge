@@ -1,0 +1,12 @@
+Industries (choose one slug):
+{% for slug, name in industries %}
+- {{ slug }}: {{ name }}
+{% endfor %}
+{% if industry_hint %}
+The user suggested the industry: {{ industry_hint }}
+{% endif %}
+
+Job title:
+<job_title>
+{{ title }}
+</job_title>

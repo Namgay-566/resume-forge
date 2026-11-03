@@ -17,5 +17,14 @@ services:
       timeout: 5s
       retries: 10
 
+  # Optional in development: only needed with JOB_QUEUE=rq or RATE_LIMIT_STORAGE_URI=redis://.
+  redis:
+    image: redis:7-alpine
+    container_name: resumeforge-redis
+    restart: unless-stopped
+    ports:
+      - "${REDIS_PORT:-6379}:6379"
+    profiles: ["redis"]
+
 volumes:
   pgdata:

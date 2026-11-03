@@ -9,5 +9,5 @@ export function BackendStatus() {
   if (isError || data.status !== 'ok') {
     return <Badge variant="destructive">Backend unreachable</Badge>
   }
-  return <Badge className="bg-emerald-600 text-white">Backend connected</Badge>
+  return <Badge variant="success">Backend connected</Badge>
 }

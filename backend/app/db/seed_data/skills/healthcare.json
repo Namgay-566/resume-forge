@@ -1,0 +1,193 @@
+[
+  {
+    "slug": "nursing-license",
+    "name": "Nursing License (RN)",
+    "category": "license",
+    "aliases": [
+      "registered nurse license",
+      "rn license",
+      "nmc registration",
+      "nursing registration",
+      "nclex"
+    ]
+  },
+  {
+    "slug": "basic-life-support",
+    "name": "Basic Life Support (BLS)",
+    "category": "certification",
+    "aliases": [
+      "bls",
+      "bls certification",
+      "cpr for healthcare providers"
+    ]
+  },
+  {
+    "slug": "advanced-cardiac-life-support",
+    "name": "Advanced Cardiac Life Support (ACLS)",
+    "category": "certification",
+    "aliases": [
+      "acls"
+    ]
+  },
+  {
+    "slug": "patient-assessment",
+    "name": "Patient Assessment",
+    "category": "clinical",
+    "aliases": [
+      "clinical assessment",
+      "vital signs",
+      "triage",
+      "patient observations"
+    ]
+  },
+  {
+    "slug": "medication-administration",
+    "name": "Medication Administration",
+    "category": "clinical",
+    "aliases": [
+      "administering medication",
+      "medicines management",
+      "iv therapy"
+    ]
+  },
+  {
+    "slug": "patient-care",
+    "name": "Patient Care",
+    "category": "clinical",
+    "aliases": [
+      "personal care",
+      "bedside care",
+      "patient support"
+    ]
+  },
+  {
+    "slug": "infection-control",
+    "name": "Infection Control",
+    "category": "clinical",
+    "aliases": [
+      "infection prevention",
+      "sterile technique",
+      "aseptic technique"
+    ]
+  },
+  {
+    "slug": "electronic-health-records",
+    "name": "Electronic Health Records",
+    "category": "tool",
+    "aliases": [
+      "ehr",
+      "emr",
+      "epic",
+      "cerner",
+      "patient records"
+    ]
+  },
+  {
+    "slug": "medical-terminology",
+    "name": "Medical Terminology",
+    "category": "concept",
+    "aliases": [
+      "clinical terminology"
+    ]
+  },
+  {
+    "slug": "phlebotomy",
+    "name": "Phlebotomy",
+    "category": "clinical",
+    "aliases": [
+      "venepuncture",
+      "blood draws"
+    ]
+  },
+  {
+    "slug": "pharmacy-technician-certification",
+    "name": "Pharmacy Technician Certification",
+    "category": "certification",
+    "aliases": [
+      "cpht",
+      "ptcb",
+      "pharmacy technician registration"
+    ]
+  },
+  {
+    "slug": "dispensing",
+    "name": "Prescription Dispensing",
+    "category": "clinical",
+    "aliases": [
+      "dispensing medication",
+      "prescription processing"
+    ]
+  },
+  {
+    "slug": "healthcare-regulations",
+    "name": "Healthcare Regulations",
+    "category": "concept",
+    "aliases": [
+      "hipaa",
+      "gdpr in healthcare",
+      "patient confidentiality",
+      "clinical governance"
+    ]
+  },
+  {
+    "slug": "physiotherapy-license",
+    "name": "Physiotherapy License",
+    "category": "license",
+    "aliases": [
+      "hcpc registration",
+      "physical therapist license",
+      "physiotherapy registration"
+    ]
+  },
+  {
+    "slug": "rehabilitation",
+    "name": "Rehabilitation Planning",
+    "category": "clinical",
+    "aliases": [
+      "treatment planning",
+      "exercise prescription",
+      "rehab"
+    ]
+  },
+  {
+    "slug": "dental-hygiene-license",
+    "name": "Dental Hygiene License",
+    "category": "license",
+    "aliases": [
+      "registered dental hygienist",
+      "rdh",
+      "gdc registration"
+    ]
+  },
+  {
+    "slug": "dental-procedures",
+    "name": "Dental Procedures",
+    "category": "clinical",
+    "aliases": [
+      "scaling and polishing",
+      "periodontal care",
+      "dental x-rays"
+    ]
+  },
+  {
+    "slug": "medical-billing-coding",
+    "name": "Medical Billing & Coding",
+    "category": "practice",
+    "aliases": [
+      "icd-10",
+      "cpt coding",
+      "clinical coding",
+      "medical coding"
+    ]
+  },
+  {
+    "slug": "care-certificate",
+    "name": "Care Certificate",
+    "category": "certification",
+    "aliases": [
+      "healthcare assistant certificate",
+      "cna",
+      "certified nursing assistant"
+    ]
+  }
+]

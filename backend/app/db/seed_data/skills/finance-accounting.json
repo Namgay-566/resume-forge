@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "financial-reporting",
+    "name": "Financial Reporting",
+    "category": "practice",
+    "aliases": [
+      "financial statements",
+      "month-end close",
+      "year-end accounts",
+      "management accounts"
+    ]
+  },
+  {
+    "slug": "bookkeeping",
+    "name": "Bookkeeping",
+    "category": "practice",
+    "aliases": [
+      "general ledger",
+      "journal entries",
+      "reconciliations",
+      "bank reconciliation"
+    ]
+  },
+  {
+    "slug": "accounting-software",
+    "name": "Accounting Software",
+    "category": "tool",
+    "aliases": [
+      "quickbooks",
+      "xero",
+      "sage",
+      "netsuite",
+      "sap fico",
+      "tally"
+    ]
+  },
+  {
+    "slug": "gaap-ifrs",
+    "name": "GAAP / IFRS",
+    "category": "concept",
+    "aliases": [
+      "gaap",
+      "ifrs",
+      "accounting standards"
+    ]
+  },
+  {
+    "slug": "taxation",
+    "name": "Taxation",
+    "category": "practice",
+    "aliases": [
+      "tax returns",
+      "vat",
+      "gst",
+      "tax compliance",
+      "sales tax"
+    ]
+  },
+  {
+    "slug": "cpa-ca-acca",
+    "name": "Professional Accounting Qualification (CPA/CA/ACCA)",
+    "category": "certification",
+    "aliases": [
+      "cpa",
+      "ca",
+      "acca",
+      "cima",
+      "chartered accountant",
+      "certified public accountant"
+    ]
+  },
+  {
+    "slug": "financial-modelling",
+    "name": "Financial Modelling",
+    "category": "practice",
+    "aliases": [
+      "financial modeling",
+      "dcf",
+      "valuation",
+      "forecast models"
+    ]
+  },
+  {
+    "slug": "auditing",
+    "name": "Auditing",
+    "category": "practice",
+    "aliases": [
+      "internal audit",
+      "external audit",
+      "audit testing",
+      "controls testing"
+    ]
+  },
+  {
+    "slug": "payroll-processing",
+    "name": "Payroll Processing",
+    "category": "practice",
+    "aliases": [
+      "payroll",
+      "pay runs",
+      "adp",
+      "paye"
+    ]
+  },
+  {
+    "slug": "accounts-payable-receivable",
+    "name": "Accounts Payable & Receivable",
+    "category": "practice",
+    "aliases": [
+      "accounts payable",
+      "accounts receivable",
+      "invoicing",
+      "credit control"
+    ]
+  },
+  {
+    "slug": "cash-handling",
+    "name": "Cash Handling",
+    "category": "practice",
+    "aliases": [
+      "cash management",
+      "till operation",
+      "balancing cash"
+    ]
+  },
+  {
+    "slug": "cfa",
+    "name": "CFA Charter",
+    "category": "certification",
+    "aliases": [
+      "cfa",
+      "chartered financial analyst",
+      "cfa level i"
+    ]
+  },
+  {
+    "slug": "internal-controls",
+    "name": "Internal Controls",
+    "category": "concept",
+    "aliases": [
+      "sox",
+      "sarbanes-oxley",
+      "control frameworks"
+    ]
+  }
+]

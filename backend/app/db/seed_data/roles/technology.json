@@ -1,0 +1,472 @@
+[
+  {
+    "industry": "technology",
+    "slug": "full-stack-developer",
+    "name": "Full Stack Developer",
+    "seniority": "junior",
+    "description": "Builds complete web applications: the user interface, the API behind it, and the database it stores data in.",
+    "skills": [
+      {
+        "skill": "javascript",
+        "importance": "critical",
+        "weight": 10
+      },
+      {
+        "skill": "git",
+        "importance": "critical",
+        "weight": 10
+      },
+      {
+        "skill": "react",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "backend-framework",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "sql",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "html-css",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "rest-apis",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "cloud-deployment",
+        "importance": "important",
+        "weight": 6
+      },
+      {
+        "skill": "testing",
+        "importance": "important",
+        "weight": 6
+      },
+      {
+        "skill": "authentication",
+        "importance": "important",
+        "weight": 6
+      },
+      {
+        "skill": "docker",
+        "importance": "important",
+        "weight": 6
+      },
+      {
+        "skill": "ci-cd",
+        "importance": "nice_to_have",
+        "weight": 3
+      },
+      {
+        "skill": "typescript",
+        "importance": "nice_to_have",
+        "weight": 3
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "technology",
+    "slug": "frontend-developer",
+    "name": "Frontend Developer",
+    "seniority": "junior",
+    "description": "Builds accessible, responsive user interfaces in the browser and connects them to backend APIs.",
+    "skills": [
+      {
+        "skill": "html-css",
+        "importance": "critical",
+        "weight": 10
+      },
+      {
+        "skill": "javascript",
+        "importance": "critical",
+        "weight": 10
+      },
+      {
+        "skill": "react",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "git",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "responsive-design",
+        "importance": "critical",
+        "weight": 8
+      },
+      {
+        "skill": "typescript",
+        "importance": "important",
+        "weight": 7
+      },
+      {
+        "skill": "rest-apis",
+        "importance": "important",
+        "weight": 6
+      },
+      {
+        "skill": "accessibility",
+        "importance": "important",
+        "weight": 6
+      },
+      {
+        "skill": "state-management",
+        "importance": "important",
+        "weight": 6
+      },
+      {
+        "skill": "testing",
+        "importance": "important",
+        "weight": 6
+      },
+      {
+        "skill": "build-tools",
+        "importance": "important",
+        "weight": 5
+      },
+      {
+        "skill": "web-performance",
+        "importance": "nice_to_have",
+        "weight": 3
+      },
+      {
+        "skill": "cloud-deployment",
+        "importance": "nice_to_have",
+        "weight": 2
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "technology",
+    "slug": "backend-developer-python",
+    "name": "Backend Developer (Python)",
+    "seniority": "junior",
+    "description": "Designs and builds APIs and services in Python, backed by relational databases.",
+    "skills": [
+      {
+        "skill": "python",
+        "importance": "critical",
+        "weight": 10
+      },
+      {
+        "skill": "python-web-framework",
+        "importance": "critical",
+        "weight": 10
+      },
+      {
+        "skill": "rest-apis",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "sql",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "git",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "testing",
+        "importance": "important",
+        "weight": 7
+      },
+      {
+        "skill": "authentication",
+        "importance": "important",
+        "weight": 7
+      },
+      {
+        "skill": "orm",
+        "importance": "important",
+        "weight": 6
+      },
+      {
+        "skill": "docker",
+        "importance": "important",
+        "weight": 6
+      },
+      {
+        "skill": "linux",
+        "importance": "important",
+        "weight": 5
+      },
+      {
+        "skill": "caching",
+        "importance": "nice_to_have",
+        "weight": 3
+      },
+      {
+        "skill": "ci-cd",
+        "importance": "nice_to_have",
+        "weight": 3
+      },
+      {
+        "skill": "cloud-deployment",
+        "importance": "nice_to_have",
+        "weight": 3
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "technology",
+    "slug": "data-analyst",
+    "name": "Data Analyst",
+    "seniority": "junior",
+    "description": "Turns raw data into answers: queries, cleans and analyses data, then communicates findings with charts and dashboards.",
+    "skills": [
+      {
+        "skill": "sql",
+        "importance": "critical",
+        "weight": 10
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "data-cleaning",
+        "importance": "critical",
+        "weight": 8
+      },
+      {
+        "skill": "statistics",
+        "importance": "critical",
+        "weight": 8
+      },
+      {
+        "skill": "data-visualization",
+        "importance": "critical",
+        "weight": 8
+      },
+      {
+        "skill": "pandas",
+        "importance": "important",
+        "weight": 7
+      },
+      {
+        "skill": "python",
+        "importance": "important",
+        "weight": 7
+      },
+      {
+        "skill": "bi-tools",
+        "importance": "important",
+        "weight": 7
+      },
+      {
+        "skill": "git",
+        "importance": "nice_to_have",
+        "weight": 3
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "critical-thinking",
+        "importance": "important"
+      }
+    ]
+  },
+  {
+    "industry": "technology",
+    "slug": "devops-engineer",
+    "name": "DevOps Engineer",
+    "seniority": "junior",
+    "description": "Automates how software is built, tested, deployed and monitored, and keeps the infrastructure it runs on reliable.",
+    "skills": [
+      {
+        "skill": "docker",
+        "importance": "critical",
+        "weight": 10
+      },
+      {
+        "skill": "linux",
+        "importance": "critical",
+        "weight": 10
+      },
+      {
+        "skill": "ci-cd",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "git",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "cloud-deployment",
+        "importance": "critical",
+        "weight": 9
+      },
+      {
+        "skill": "networking",
+        "importance": "critical",
+        "weight": 8
+      },
+      {
+        "skill": "kubernetes",
+        "importance": "important",
+        "weight": 7
+      },
+      {
+        "skill": "infrastructure-as-code",
+        "importance": "important",
+        "weight": 7
+      },
+      {
+        "skill": "monitoring",
+        "importance": "important",
+        "weight": 6
+      },
+      {
+        "skill": "python",
+        "importance": "important",
+        "weight": 5
+      },
+      {
+        "skill": "sql",
+        "importance": "nice_to_have",
+        "weight": 2
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "technology",
+    "slug": "it-support-specialist",
+    "name": "IT Support Specialist",
+    "seniority": "mid",
+    "description": "Keeps people's computers, accounts and devices working, and solves technical problems quickly and patiently.",
+    "skills": [
+      {
+        "skill": "it-troubleshooting",
+        "importance": "critical"
+      },
+      {
+        "skill": "operating-systems",
+        "importance": "critical"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "help-desk-ticketing",
+        "importance": "important"
+      },
+      {
+        "skill": "networking",
+        "importance": "important"
+      },
+      {
+        "skill": "active-directory",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "comptia-a-plus",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "time-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "technology",
+    "slug": "product-manager",
+    "name": "Product Manager",
+    "seniority": "senior",
+    "description": "Decides what a product should do next and why, and works with design, engineering and customers to deliver it.",
+    "skills": [
+      {
+        "skill": "product-strategy",
+        "importance": "critical"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "communication",
+        "importance": "critical"
+      },
+      {
+        "skill": "agile-methods",
+        "importance": "important"
+      },
+      {
+        "skill": "data-visualization",
+        "importance": "important"
+      },
+      {
+        "skill": "user-research",
+        "importance": "important"
+      },
+      {
+        "skill": "presentation-skills",
+        "importance": "important"
+      },
+      {
+        "skill": "sql",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "project-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

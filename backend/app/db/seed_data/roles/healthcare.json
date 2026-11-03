@@ -1,0 +1,320 @@
+[
+  {
+    "industry": "healthcare",
+    "slug": "registered-nurse",
+    "name": "Registered Nurse",
+    "seniority": "mid",
+    "description": "Assesses, plans and delivers patient care, gives medications and treatments, and works closely with doctors and families.",
+    "skills": [
+      {
+        "skill": "nursing-license",
+        "importance": "critical"
+      },
+      {
+        "skill": "patient-assessment",
+        "importance": "critical"
+      },
+      {
+        "skill": "medication-administration",
+        "importance": "critical"
+      },
+      {
+        "skill": "basic-life-support",
+        "importance": "critical"
+      },
+      {
+        "skill": "patient-care",
+        "importance": "critical"
+      },
+      {
+        "skill": "infection-control",
+        "importance": "important"
+      },
+      {
+        "skill": "electronic-health-records",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "empathy",
+        "importance": "important"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "important"
+      },
+      {
+        "skill": "advanced-cardiac-life-support",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "critical-thinking",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "slug": "medical-assistant",
+    "name": "Medical Assistant",
+    "seniority": "entry",
+    "description": "Supports doctors and nurses with patient intake, basic clinical tasks and front-desk administration.",
+    "skills": [
+      {
+        "skill": "patient-care",
+        "importance": "critical"
+      },
+      {
+        "skill": "medical-terminology",
+        "importance": "critical"
+      },
+      {
+        "skill": "electronic-health-records",
+        "importance": "critical"
+      },
+      {
+        "skill": "patient-assessment",
+        "importance": "important"
+      },
+      {
+        "skill": "phlebotomy",
+        "importance": "important"
+      },
+      {
+        "skill": "basic-life-support",
+        "importance": "important"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "important"
+      },
+      {
+        "skill": "medical-billing-coding",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "organisation",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "slug": "pharmacy-technician",
+    "name": "Pharmacy Technician",
+    "seniority": "mid",
+    "description": "Prepares and dispenses medicines accurately under a pharmacist's supervision and helps patients with their prescriptions.",
+    "skills": [
+      {
+        "skill": "pharmacy-technician-certification",
+        "importance": "critical"
+      },
+      {
+        "skill": "dispensing",
+        "importance": "critical"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "critical"
+      },
+      {
+        "skill": "medical-terminology",
+        "importance": "important"
+      },
+      {
+        "skill": "healthcare-regulations",
+        "importance": "important"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "important"
+      },
+      {
+        "skill": "data-entry",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "slug": "healthcare-administrator",
+    "name": "Healthcare Administrator",
+    "seniority": "mid",
+    "description": "Runs the business side of a clinic or ward: staffing, budgets, records and compliance.",
+    "skills": [
+      {
+        "skill": "healthcare-regulations",
+        "importance": "critical"
+      },
+      {
+        "skill": "organisation",
+        "importance": "critical"
+      },
+      {
+        "skill": "electronic-health-records",
+        "importance": "important"
+      },
+      {
+        "skill": "budgeting",
+        "importance": "important"
+      },
+      {
+        "skill": "leadership",
+        "importance": "important"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "important"
+      },
+      {
+        "skill": "microsoft-office",
+        "importance": "important"
+      },
+      {
+        "skill": "medical-billing-coding",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "project-management",
+        "importance": "nice_to_have"
+      }
+    ],
+    "sections": [
+      "summary",
+      "experience",
+      "skills",
+      "education",
+      "certifications"
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "slug": "physiotherapist",
+    "name": "Physiotherapist",
+    "seniority": "mid",
+    "description": "Helps people recover movement and manage pain through assessment, exercise and hands-on treatment.",
+    "skills": [
+      {
+        "skill": "physiotherapy-license",
+        "importance": "critical"
+      },
+      {
+        "skill": "patient-assessment",
+        "importance": "critical"
+      },
+      {
+        "skill": "rehabilitation",
+        "importance": "critical"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "empathy",
+        "importance": "important"
+      },
+      {
+        "skill": "electronic-health-records",
+        "importance": "important"
+      },
+      {
+        "skill": "basic-life-support",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "written-communication",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "slug": "dental-hygienist",
+    "name": "Dental Hygienist",
+    "seniority": "mid",
+    "description": "Cleans teeth, checks for gum disease and teaches patients how to look after their oral health.",
+    "skills": [
+      {
+        "skill": "dental-hygiene-license",
+        "importance": "critical"
+      },
+      {
+        "skill": "dental-procedures",
+        "importance": "critical"
+      },
+      {
+        "skill": "infection-control",
+        "importance": "critical"
+      },
+      {
+        "skill": "patient-care",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "electronic-health-records",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "basic-life-support",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "healthcare",
+    "slug": "healthcare-assistant",
+    "name": "Healthcare Assistant",
+    "seniority": "entry",
+    "description": "Gives day-to-day care and support to patients or residents in hospitals, care homes or at home.",
+    "skills": [
+      {
+        "skill": "patient-care",
+        "importance": "critical"
+      },
+      {
+        "skill": "care-certificate",
+        "importance": "important"
+      },
+      {
+        "skill": "empathy",
+        "importance": "critical"
+      },
+      {
+        "skill": "infection-control",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "first-aid-cpr",
+        "importance": "important"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "important"
+      },
+      {
+        "skill": "safeguarding",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "time-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

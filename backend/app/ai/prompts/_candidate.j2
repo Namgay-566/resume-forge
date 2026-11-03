@@ -1,0 +1,30 @@
+{#- Rendered into user prompts. `ctx` is an app.ai.context.CandidateContext (all optional). -#}
+{% set stages = {
+  "student": "student or recent graduate, little or no full-time work history yet",
+  "entry": "entry level, in the first year or two of work",
+  "mid": "mid-level, several years of experience",
+  "senior": "senior, many years of experience and often leading others",
+  "career_changer": "career changer, moving into this field from a different one",
+} %}
+{% if ctx is defined and ctx %}
+Target role: {{ ctx.target_role or "not specified" }}
+Field: {{ ctx.industry or "not specified" }}
+{% if ctx.experience_level %}
+Career stage: {{ stages[ctx.experience_level] }}
+{% endif %}
+{% if ctx.spelling == "en_gb" %}
+Spelling: British English (organise, colour, programme, licence). Use it in everything you write.
+{% elif ctx.spelling == "en_us" %}
+Spelling: American English (organize, color, program, license). Use it in everything you write.
+{% endif %}
+{% if ctx.impact_language %}
+Results that matter in this field: {{ ctx.impact_language }}
+{% endif %}
+{% if ctx.fresher %}
+
+Fresher mode: this candidate has little or no full-time experience. Build on what they do have: their education (course, modules, grades, dissertation or final project), projects, internships and placements, part-time jobs, volunteering and extracurricular roles. Show the transferable skills these prove (for example teamwork from a group project, customer care from a weekend job, organisation from running a society). A short work history is normal here and is not a weakness.
+{% elif ctx.career_changer %}
+
+Career changer mode: this candidate is moving into {{ ctx.industry or "this field" }} from a different one. Find the transferable skills in their earlier career that the target role needs, and describe that earlier work in words the new field recognises (for example a retail manager's rota planning and team leadership for an operations role, or a nurse's patient education for a teaching role). Never claim experience in the new field that they don't have, and don't dismiss the earlier career as irrelevant.
+{% endif %}
+{% endif %}

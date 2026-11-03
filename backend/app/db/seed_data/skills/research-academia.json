@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "research-methods",
+    "name": "Research Methods",
+    "category": "practice",
+    "aliases": [
+      "research design",
+      "qualitative research",
+      "quantitative research",
+      "experimental design"
+    ]
+  },
+  {
+    "slug": "literature-review",
+    "name": "Literature Review",
+    "category": "practice",
+    "aliases": [
+      "systematic review",
+      "literature search"
+    ]
+  },
+  {
+    "slug": "academic-writing",
+    "name": "Academic Writing",
+    "category": "practice",
+    "aliases": [
+      "scientific writing",
+      "manuscript writing",
+      "publications",
+      "peer-reviewed publications"
+    ]
+  },
+  {
+    "slug": "statistical-software",
+    "name": "Statistical Software",
+    "category": "tool",
+    "aliases": [
+      "spss",
+      "r programming",
+      "stata",
+      "sas",
+      "nvivo"
+    ]
+  },
+  {
+    "slug": "laboratory-techniques",
+    "name": "Laboratory Techniques",
+    "category": "practice",
+    "aliases": [
+      "lab techniques",
+      "pcr",
+      "cell culture",
+      "wet lab",
+      "pipetting"
+    ]
+  },
+  {
+    "slug": "lab-safety",
+    "name": "Laboratory Safety",
+    "category": "practice",
+    "aliases": [
+      "glp",
+      "good laboratory practice",
+      "biosafety",
+      "coshh"
+    ]
+  },
+  {
+    "slug": "grant-writing",
+    "name": "Grant Writing",
+    "category": "practice",
+    "aliases": [
+      "funding applications",
+      "research proposals"
+    ]
+  },
+  {
+    "slug": "phd",
+    "name": "Doctoral Degree (PhD)",
+    "category": "certification",
+    "aliases": [
+      "phd",
+      "doctorate",
+      "dphil"
+    ]
+  },
+  {
+    "slug": "good-clinical-practice",
+    "name": "Good Clinical Practice (GCP) Certification",
+    "category": "certification",
+    "aliases": [
+      "ich-gcp",
+      "gcp certification",
+      "gcp training"
+    ]
+  },
+  {
+    "slug": "clinical-trial-coordination",
+    "name": "Clinical Trial Coordination",
+    "category": "practice",
+    "aliases": [
+      "clinical research",
+      "trial management",
+      "patient recruitment",
+      "informed consent"
+    ]
+  },
+  {
+    "slug": "university-teaching",
+    "name": "University Teaching",
+    "category": "practice",
+    "aliases": [
+      "lecturing",
+      "seminar teaching",
+      "module leadership"
+    ]
+  }
+]

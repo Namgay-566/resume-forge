@@ -1,0 +1,119 @@
+[
+  {
+    "slug": "digital-marketing",
+    "name": "Digital Marketing",
+    "category": "practice",
+    "aliases": [
+      "online marketing",
+      "performance marketing",
+      "paid media"
+    ]
+  },
+  {
+    "slug": "social-media-marketing",
+    "name": "Social Media Marketing",
+    "category": "practice",
+    "aliases": [
+      "social media",
+      "instagram",
+      "tiktok",
+      "linkedin marketing",
+      "community management"
+    ]
+  },
+  {
+    "slug": "content-writing",
+    "name": "Content Writing",
+    "category": "practice",
+    "aliases": [
+      "copywriting",
+      "blogging",
+      "content creation",
+      "editing"
+    ]
+  },
+  {
+    "slug": "seo",
+    "name": "SEO",
+    "category": "practice",
+    "aliases": [
+      "search engine optimisation",
+      "search engine optimization",
+      "keyword research"
+    ]
+  },
+  {
+    "slug": "marketing-analytics",
+    "name": "Marketing Analytics",
+    "category": "practice",
+    "aliases": [
+      "google analytics",
+      "ga4",
+      "campaign reporting",
+      "attribution"
+    ]
+  },
+  {
+    "slug": "email-marketing",
+    "name": "Email Marketing",
+    "category": "practice",
+    "aliases": [
+      "mailchimp",
+      "email campaigns",
+      "newsletters",
+      "hubspot"
+    ]
+  },
+  {
+    "slug": "paid-advertising",
+    "name": "Paid Advertising",
+    "category": "practice",
+    "aliases": [
+      "google ads",
+      "ppc",
+      "meta ads",
+      "facebook ads",
+      "sem"
+    ]
+  },
+  {
+    "slug": "brand-management",
+    "name": "Brand Management",
+    "category": "practice",
+    "aliases": [
+      "branding",
+      "brand strategy",
+      "brand guidelines"
+    ]
+  },
+  {
+    "slug": "campaign-management",
+    "name": "Campaign Management",
+    "category": "practice",
+    "aliases": [
+      "marketing campaigns",
+      "campaign planning"
+    ]
+  },
+  {
+    "slug": "market-research",
+    "name": "Market Research",
+    "category": "practice",
+    "aliases": [
+      "competitor analysis",
+      "customer research",
+      "surveys"
+    ]
+  },
+  {
+    "slug": "crm-software",
+    "name": "CRM Software",
+    "category": "tool",
+    "aliases": [
+      "salesforce",
+      "hubspot crm",
+      "zoho crm",
+      "crm"
+    ]
+  }
+]

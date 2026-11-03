@@ -1,0 +1,232 @@
+[
+  {
+    "industry": "skilled-trades",
+    "slug": "electrician",
+    "name": "Electrician",
+    "seniority": "mid",
+    "description": "Installs, maintains and repairs electrical systems in homes and businesses safely and to code.",
+    "skills": [
+      {
+        "skill": "electrician-license",
+        "importance": "critical"
+      },
+      {
+        "skill": "electrical-installation",
+        "importance": "critical"
+      },
+      {
+        "skill": "electrical-codes",
+        "importance": "critical"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "critical"
+      },
+      {
+        "skill": "blueprint-reading",
+        "importance": "important"
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      },
+      {
+        "skill": "trade-apprenticeship",
+        "importance": "important"
+      },
+      {
+        "skill": "drivers-license",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "skilled-trades",
+    "slug": "plumber",
+    "name": "Plumber",
+    "seniority": "mid",
+    "description": "Installs and repairs water, drainage and heating systems.",
+    "skills": [
+      {
+        "skill": "plumbing-license",
+        "importance": "critical"
+      },
+      {
+        "skill": "pipe-installation",
+        "importance": "critical"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "critical"
+      },
+      {
+        "skill": "blueprint-reading",
+        "importance": "important"
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      },
+      {
+        "skill": "trade-apprenticeship",
+        "importance": "important"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "important"
+      },
+      {
+        "skill": "drivers-license",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "skilled-trades",
+    "slug": "carpenter",
+    "name": "Carpenter",
+    "seniority": "mid",
+    "description": "Builds, installs and repairs wooden structures, from framing to fitted furniture.",
+    "skills": [
+      {
+        "skill": "carpentry",
+        "importance": "critical"
+      },
+      {
+        "skill": "power-tools",
+        "importance": "critical"
+      },
+      {
+        "skill": "blueprint-reading",
+        "importance": "important"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "critical"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "trade-apprenticeship",
+        "importance": "important"
+      },
+      {
+        "skill": "drivers-license",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "skilled-trades",
+    "slug": "hvac-technician",
+    "name": "HVAC Technician",
+    "seniority": "mid",
+    "description": "Installs, services and repairs heating, ventilation, air conditioning and refrigeration systems.",
+    "skills": [
+      {
+        "skill": "hvac-systems",
+        "importance": "critical"
+      },
+      {
+        "skill": "refrigerant-certification",
+        "importance": "critical"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "critical"
+      },
+      {
+        "skill": "electrical-installation",
+        "importance": "important"
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "important"
+      },
+      {
+        "skill": "drivers-license",
+        "importance": "important"
+      }
+    ]
+  },
+  {
+    "industry": "skilled-trades",
+    "slug": "welder",
+    "name": "Welder",
+    "seniority": "mid",
+    "description": "Joins and cuts metal parts to specification using a range of welding techniques.",
+    "skills": [
+      {
+        "skill": "welding",
+        "importance": "critical"
+      },
+      {
+        "skill": "welding-certification",
+        "importance": "critical"
+      },
+      {
+        "skill": "blueprint-reading",
+        "importance": "important"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "critical"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "power-tools",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "skilled-trades",
+    "slug": "automotive-technician",
+    "name": "Automotive Technician",
+    "seniority": "mid",
+    "description": "Diagnoses, services and repairs cars and light vehicles.",
+    "skills": [
+      {
+        "skill": "vehicle-diagnostics",
+        "importance": "critical"
+      },
+      {
+        "skill": "vehicle-maintenance",
+        "importance": "critical"
+      },
+      {
+        "skill": "ase-certification",
+        "importance": "important"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "important"
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "drivers-license",
+        "importance": "important"
+      }
+    ]
+  }
+]

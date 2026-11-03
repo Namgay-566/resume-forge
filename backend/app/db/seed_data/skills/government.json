@@ -1,0 +1,91 @@
+[
+  {
+    "slug": "policy-analysis",
+    "name": "Policy Analysis",
+    "category": "practice",
+    "aliases": [
+      "public policy",
+      "policy research",
+      "policy development"
+    ]
+  },
+  {
+    "slug": "public-administration",
+    "name": "Public Administration",
+    "category": "concept",
+    "aliases": [
+      "civil service",
+      "government procedures"
+    ]
+  },
+  {
+    "slug": "case-management",
+    "name": "Case Management",
+    "category": "practice",
+    "aliases": [
+      "caseload management",
+      "care planning",
+      "client assessments"
+    ]
+  },
+  {
+    "slug": "social-work-license",
+    "name": "Social Work License",
+    "category": "license",
+    "aliases": [
+      "social work registration",
+      "lcsw",
+      "swe registration",
+      "qualified social worker"
+    ]
+  },
+  {
+    "slug": "community-engagement",
+    "name": "Community Engagement",
+    "category": "practice",
+    "aliases": [
+      "community outreach",
+      "public consultation"
+    ]
+  },
+  {
+    "slug": "report-writing",
+    "name": "Report & Briefing Writing",
+    "category": "practice",
+    "aliases": [
+      "report writing",
+      "briefings",
+      "ministerial briefs",
+      "policy papers"
+    ]
+  },
+  {
+    "slug": "law-enforcement-training",
+    "name": "Law Enforcement Training",
+    "category": "certification",
+    "aliases": [
+      "police academy",
+      "peace officer certification",
+      "police training"
+    ]
+  },
+  {
+    "slug": "physical-fitness",
+    "name": "Physical Fitness Standard",
+    "category": "certification",
+    "aliases": [
+      "fitness test",
+      "physical ability test"
+    ]
+  },
+  {
+    "slug": "grant-management",
+    "name": "Grant & Programme Management",
+    "category": "practice",
+    "aliases": [
+      "grant management",
+      "program management",
+      "programme management"
+    ]
+  }
+]

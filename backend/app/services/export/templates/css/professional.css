@@ -1,0 +1,30 @@
+/* Professional: clean sans-serif, navy headings over a thin rule. For business, marketing and
+   sales. Colour is decoration only: everything reads the same in black and white.
+   Keep @page and --rf-page-margin equal. */
+@page {
+  size: A4;
+  margin: 16mm 18mm;
+}
+.rf-template-professional {
+  --rf-page-margin: 16mm 18mm;
+  --rf-font: Arial, "Liberation Sans", Helvetica, sans-serif;
+  --rf-font-size: 10.5pt;
+  --rf-line-height: 1.35;
+  --rf-name-size: 23pt;
+  --rf-heading-size: 10.5pt;
+  --rf-section-gap: 12pt;
+  --rf-entry-gap: 8pt;
+}
+.rf-template-professional .rf-name {
+  color: #1f3a5f;
+}
+.rf-template-professional .rf-headline {
+  font-size: 11.5pt;
+  color: #1f3a5f;
+}
+.rf-template-professional .rf-heading {
+  color: #1f3a5f;
+  border-bottom-width: 1pt;
+  border-color: #1f3a5f;
+  padding-bottom: 1.5pt;
+}

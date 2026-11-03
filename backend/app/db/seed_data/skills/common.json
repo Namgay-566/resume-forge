@@ -1,0 +1,268 @@
+[
+  {
+    "slug": "communication",
+    "name": "Communication",
+    "category": "soft_skill",
+    "aliases": [
+      "verbal communication",
+      "interpersonal communication",
+      "communication skills"
+    ]
+  },
+  {
+    "slug": "written-communication",
+    "name": "Written Communication",
+    "category": "soft_skill",
+    "aliases": [
+      "business writing",
+      "written skills"
+    ]
+  },
+  {
+    "slug": "teamwork",
+    "name": "Teamwork",
+    "category": "soft_skill",
+    "aliases": [
+      "collaboration",
+      "team player",
+      "working in a team"
+    ]
+  },
+  {
+    "slug": "problem-solving",
+    "name": "Problem Solving",
+    "category": "soft_skill",
+    "aliases": [
+      "troubleshooting",
+      "problem-solving"
+    ]
+  },
+  {
+    "slug": "critical-thinking",
+    "name": "Critical Thinking",
+    "category": "soft_skill",
+    "aliases": [
+      "analytical thinking",
+      "judgement",
+      "judgment"
+    ]
+  },
+  {
+    "slug": "time-management",
+    "name": "Time Management",
+    "category": "soft_skill",
+    "aliases": [
+      "prioritisation",
+      "prioritization",
+      "managing deadlines"
+    ]
+  },
+  {
+    "slug": "organisation",
+    "name": "Organisation",
+    "category": "soft_skill",
+    "aliases": [
+      "organization",
+      "organisational skills",
+      "organizational skills"
+    ]
+  },
+  {
+    "slug": "attention-to-detail",
+    "name": "Attention to Detail",
+    "category": "soft_skill",
+    "aliases": [
+      "detail-oriented",
+      "detail oriented"
+    ]
+  },
+  {
+    "slug": "customer-service",
+    "name": "Customer Service",
+    "category": "soft_skill",
+    "aliases": [
+      "client service",
+      "customer care",
+      "customer support"
+    ]
+  },
+  {
+    "slug": "leadership",
+    "name": "Leadership",
+    "category": "soft_skill",
+    "aliases": [
+      "team leadership",
+      "leading teams",
+      "people management"
+    ]
+  },
+  {
+    "slug": "adaptability",
+    "name": "Adaptability",
+    "category": "soft_skill",
+    "aliases": [
+      "flexibility",
+      "resilience"
+    ]
+  },
+  {
+    "slug": "empathy",
+    "name": "Empathy",
+    "category": "soft_skill",
+    "aliases": [
+      "compassion",
+      "active listening",
+      "emotional intelligence"
+    ]
+  },
+  {
+    "slug": "negotiation",
+    "name": "Negotiation",
+    "category": "soft_skill",
+    "aliases": [
+      "negotiating",
+      "persuasion"
+    ]
+  },
+  {
+    "slug": "presentation-skills",
+    "name": "Presentation Skills",
+    "category": "soft_skill",
+    "aliases": [
+      "public speaking",
+      "presenting"
+    ]
+  },
+  {
+    "slug": "conflict-resolution",
+    "name": "Conflict Resolution",
+    "category": "soft_skill",
+    "aliases": [
+      "de-escalation",
+      "mediation"
+    ]
+  },
+  {
+    "slug": "stakeholder-management",
+    "name": "Stakeholder Management",
+    "category": "soft_skill",
+    "aliases": [
+      "relationship management",
+      "stakeholder engagement"
+    ]
+  },
+  {
+    "slug": "project-management",
+    "name": "Project Management",
+    "category": "practice",
+    "aliases": [
+      "project planning",
+      "managing projects"
+    ]
+  },
+  {
+    "slug": "budgeting",
+    "name": "Budgeting",
+    "category": "practice",
+    "aliases": [
+      "budget management",
+      "cost control",
+      "forecasting"
+    ]
+  },
+  {
+    "slug": "microsoft-office",
+    "name": "Microsoft Office",
+    "category": "tool",
+    "aliases": [
+      "ms office",
+      "office 365",
+      "microsoft 365",
+      "microsoft word",
+      "powerpoint",
+      "outlook"
+    ]
+  },
+  {
+    "slug": "data-entry",
+    "name": "Data Entry",
+    "category": "practice",
+    "aliases": [
+      "record keeping",
+      "records management"
+    ]
+  },
+  {
+    "slug": "health-and-safety",
+    "name": "Health and Safety",
+    "category": "practice",
+    "aliases": [
+      "occupational health and safety",
+      "ohs",
+      "osha",
+      "workplace safety",
+      "risk assessment"
+    ]
+  },
+  {
+    "slug": "first-aid-cpr",
+    "name": "First Aid & CPR Certification",
+    "category": "certification",
+    "aliases": [
+      "first aid",
+      "cpr",
+      "first aid certificate",
+      "first aid at work"
+    ]
+  },
+  {
+    "slug": "drivers-license",
+    "name": "Driver's Licence",
+    "category": "license",
+    "aliases": [
+      "driver's license",
+      "driving licence",
+      "drivers license",
+      "full driving licence"
+    ]
+  },
+  {
+    "slug": "commercial-drivers-license",
+    "name": "Commercial Driver's Licence",
+    "category": "license",
+    "aliases": [
+      "cdl",
+      "hgv licence",
+      "lgv licence",
+      "class a license",
+      "commercial driving licence"
+    ]
+  },
+  {
+    "slug": "safeguarding",
+    "name": "Safeguarding & Background Check",
+    "category": "certification",
+    "aliases": [
+      "dbs check",
+      "background check",
+      "child protection",
+      "safeguarding training",
+      "working with children check"
+    ]
+  },
+  {
+    "slug": "foreign-language",
+    "name": "Second Language",
+    "category": "language",
+    "aliases": [
+      "bilingual",
+      "multilingual",
+      "spanish",
+      "french",
+      "german",
+      "mandarin",
+      "arabic",
+      "hindi"
+    ]
+  }
+]

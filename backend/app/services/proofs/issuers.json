@@ -1,0 +1,333 @@
+{
+  "issuers": {
+    "coursera": [
+      "coursera.org"
+    ],
+    "udemy": [
+      "udemy.com",
+      "ude.my"
+    ],
+    "edx": [
+      "edx.org"
+    ],
+    "freecodecamp": [
+      "freecodecamp.org"
+    ],
+    "linkedin": [
+      "linkedin.com",
+      "lnkd.in"
+    ],
+    "microsoft": [
+      "microsoft.com"
+    ],
+    "amazon web services": [
+      "aws.amazon.com",
+      "amazon.com"
+    ],
+    "aws": [
+      "aws.amazon.com",
+      "amazon.com"
+    ],
+    "google": [
+      "google.com",
+      "cloudskillsboost.google",
+      "grow.google",
+      "skillshop.withgoogle.com"
+    ],
+    "ibm": [
+      "ibm.com"
+    ],
+    "oracle": [
+      "oracle.com"
+    ],
+    "cisco": [
+      "cisco.com",
+      "netacad.com"
+    ],
+    "hackerrank": [
+      "hackerrank.com"
+    ],
+    "datacamp": [
+      "datacamp.com"
+    ],
+    "meta": [
+      "meta.com",
+      "facebook.com"
+    ],
+    "github": [
+      "github.com"
+    ],
+    "kaggle": [
+      "kaggle.com"
+    ],
+    "the odin project": [
+      "theodinproject.com"
+    ],
+    "mongodb": [
+      "mongodb.com"
+    ],
+    "hashicorp": [
+      "hashicorp.com"
+    ],
+    "cncf": [
+      "cncf.io",
+      "linuxfoundation.org"
+    ],
+    "linux foundation": [
+      "linuxfoundation.org"
+    ],
+    "comptia": [
+      "comptia.org"
+    ],
+    "scrum.org": [
+      "scrum.org"
+    ],
+    "pmi": [
+      "pmi.org"
+    ],
+    "project management institute": [
+      "pmi.org"
+    ],
+    "american heart association": [
+      "heart.org",
+      "ahainstructornetwork.org"
+    ],
+    "american red cross": [
+      "redcross.org"
+    ],
+    "british red cross": [
+      "redcross.org.uk"
+    ],
+    "red cross": [
+      "redcross.org",
+      "redcross.org.uk",
+      "redcross.ca",
+      "redcross.org.au"
+    ],
+    "st john ambulance": [
+      "sja.org.uk",
+      "sja.ca",
+      "stjohn.org.au"
+    ],
+    "resuscitation council": [
+      "resus.org.uk"
+    ],
+    "nebosh": [
+      "nebosh.org.uk"
+    ],
+    "iosh": [
+      "iosh.com"
+    ],
+    "osha": [
+      "osha.gov",
+      "oshaeducationcenter.com"
+    ],
+    "highfield": [
+      "highfieldqualifications.com",
+      "highfield.co.uk"
+    ],
+    "servsafe": [
+      "servsafe.com"
+    ],
+    "national restaurant association": [
+      "servsafe.com",
+      "restaurant.org"
+    ],
+    "city & guilds": [
+      "cityandguilds.com"
+    ],
+    "city and guilds": [
+      "cityandguilds.com"
+    ],
+    "pearson": [
+      "pearson.com",
+      "credly.com"
+    ],
+    "cache": [
+      "cache.org.uk"
+    ],
+    "skills for care": [
+      "skillsforcare.org.uk"
+    ],
+    "acca": [
+      "accaglobal.com"
+    ],
+    "aicpa": [
+      "aicpa.org",
+      "aicpa-cima.com"
+    ],
+    "cima": [
+      "cimaglobal.com",
+      "aicpa-cima.com"
+    ],
+    "icaew": [
+      "icaew.com"
+    ],
+    "cfa institute": [
+      "cfainstitute.org"
+    ],
+    "cipd": [
+      "cipd.org",
+      "cipd.co.uk"
+    ],
+    "shrm": [
+      "shrm.org"
+    ],
+    "hubspot": [
+      "hubspot.com",
+      "academy.hubspot.com"
+    ],
+    "axelos": [
+      "axelos.com"
+    ],
+    "peoplecert": [
+      "peoplecert.org"
+    ],
+    "prince2": [
+      "axelos.com",
+      "peoplecert.org"
+    ],
+    "cips": [
+      "cips.org"
+    ],
+    "apics": [
+      "ascm.org"
+    ],
+    "ascm": [
+      "ascm.org"
+    ],
+    "institute of leadership": [
+      "leadershipinstitute.org",
+      "institutelm.com"
+    ],
+    "cambridge": [
+      "cambridgeenglish.org",
+      "cambridge.org",
+      "cambridgeassessment.org.uk"
+    ],
+    "british council": [
+      "britishcouncil.org"
+    ],
+    "ielts": [
+      "ielts.org"
+    ],
+    "ets": [
+      "ets.org"
+    ],
+    "toefl": [
+      "ets.org"
+    ],
+    "instituto cervantes": [
+      "cervantes.es"
+    ],
+    "goethe": [
+      "goethe.de"
+    ],
+    "alliance française": [
+      "alliancefr.org"
+    ],
+    "tefl": [
+      "tefl.org",
+      "tefl.org.uk"
+    ]
+  },
+  "credential_platforms": [
+    "credly.com",
+    "youracclaim.com",
+    "credential.net",
+    "accredible.com",
+    "badgr.com",
+    "certifier.io",
+    "verified.sertifier.com",
+    "certificates.simplicdn.net",
+    "parchment.com",
+    "diplomasafe.com"
+  ],
+  "registers": {
+    "nursing and midwifery council": [
+      "nmc.org.uk"
+    ],
+    "nmc": [
+      "nmc.org.uk"
+    ],
+    "nursys": [
+      "nursys.com"
+    ],
+    "national council of state boards of nursing": [
+      "nursys.com",
+      "ncsbn.org"
+    ],
+    "general medical council": [
+      "gmc-uk.org"
+    ],
+    "health and care professions council": [
+      "hcpc-uk.org"
+    ],
+    "general pharmaceutical council": [
+      "pharmacyregulation.org"
+    ],
+    "general dental council": [
+      "gdc-uk.org"
+    ],
+    "ahpra": [
+      "ahpra.gov.au"
+    ],
+    "nursing and midwifery board of australia": [
+      "ahpra.gov.au",
+      "nursingmidwiferyboard.gov.au"
+    ],
+    "teaching regulation agency": [
+      "teacherservices.education.gov.uk",
+      "education.gov.uk"
+    ],
+    "general teaching council": [
+      "gtcs.org.uk",
+      "ewc.wales",
+      "gtcni.org.uk"
+    ],
+    "solicitors regulation authority": [
+      "sra.org.uk"
+    ],
+    "bar standards board": [
+      "barstandardsboard.org.uk"
+    ],
+    "state bar": [
+      "calbar.ca.gov",
+      "texasbar.com",
+      "floridabar.org",
+      "nysba.org"
+    ],
+    "engineering council": [
+      "engc.org.uk"
+    ],
+    "ncees": [
+      "ncees.org"
+    ],
+    "gas safe register": [
+      "gassaferegister.co.uk"
+    ],
+    "niceic": [
+      "niceic.com"
+    ],
+    "social work england": [
+      "socialworkengland.org.uk"
+    ],
+    "dvla": [
+      "gov.uk"
+    ]
+  },
+  "government_suffixes": [
+    ".gov",
+    ".gov.uk",
+    ".gov.au",
+    ".gc.ca",
+    ".gov.ie",
+    ".gov.in",
+    ".gov.za",
+    ".govt.nz",
+    ".nhs.uk",
+    ".gouv.fr",
+    ".gob.es",
+    ".gov.sg"
+  ]
+}

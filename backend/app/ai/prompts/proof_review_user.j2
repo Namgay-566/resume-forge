@@ -1,0 +1,41 @@
+Claimed skills: {{ skills | join(", ") }}
+Candidate's target role: {{ target_role or "not specified" }}
+
+Repository: {{ facts.full_name }}{% if facts.description %} - {{ facts.description }}{% endif %}
+
+Languages: {% for lang, share in facts.languages.items() %}{{ lang }} {{ share }}%{% if not loop.last %}, {% endif %}{% endfor %}
+
+Commits: {{ facts.commit_count }} total, on {{ facts.commit_days }} distinct days (latest 100 checked). Contributors: {% for c in facts.contributors[:5] %}{{ c.login }} ({{ c.commits }}){% if not loop.last %}, {% endif %}{% endfor %}
+
+{% if facts.fork %}Fork of {{ facts.parent }}; {{ facts.ahead_of_parent if facts.ahead_of_parent is not none else "unknown" }} commits of its own.
+{% endif %}
+Has tests: {{ facts.has_tests }}. Has CI: {{ facts.has_ci }}. Has Docker: {{ facts.has_docker }}.
+
+Recent commit messages:
+{% for message in commit_messages %}
+- {{ message }}
+{% endfor %}
+
+README:
+<readme>
+{{ readme or "(none)" }}
+</readme>
+
+File tree:
+<tree>
+{{ tree }}
+</tree>
+{% for path, text in config_files.items() %}
+
+Config file {{ path }}:
+<file path="{{ path }}">
+{{ text }}
+</file>
+{% endfor %}
+{% for path, text in source_files.items() %}
+
+Source file {{ path }}:
+<file path="{{ path }}">
+{{ text }}
+</file>
+{% endfor %}

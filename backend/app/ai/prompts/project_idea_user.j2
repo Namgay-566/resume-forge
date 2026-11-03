@@ -1,0 +1,20 @@
+Skill to prove: {{ skill }} ({{ category }})
+Why it matters: it is {{ importance }} for the target role.
+{% include "_candidate.j2" %}
+{% if already_listed %}
+The candidate already lists this skill but has no proof yet, so the project should be a quick, convincing demonstration rather than a learning exercise.
+{% else %}
+The candidate is new to this skill, so the project should also be a good way to learn it.
+{% endif %}
+{% if known_skills %}
+Skills they already have: {{ known_skills | join(", ") }}
+{% endif %}
+
+Proof types that suit this skill, best first (choose one):
+{% for type in proof_types %}
+- {{ type.value }}: {{ type.label }}
+{% endfor %}
+What the best proof must include:
+{% for line in must_include %}
+- {{ line }}
+{% endfor %}

@@ -1,0 +1,167 @@
+[
+  {
+    "slug": "electrician-license",
+    "name": "Electrician License",
+    "category": "license",
+    "aliases": [
+      "journeyman electrician",
+      "licensed electrician",
+      "18th edition",
+      "electrical license",
+      "red seal electrician"
+    ]
+  },
+  {
+    "slug": "electrical-installation",
+    "name": "Electrical Installation",
+    "category": "practice",
+    "aliases": [
+      "wiring",
+      "electrical wiring",
+      "circuit installation",
+      "rewiring"
+    ]
+  },
+  {
+    "slug": "electrical-codes",
+    "name": "Electrical Codes",
+    "category": "concept",
+    "aliases": [
+      "nec",
+      "bs 7671",
+      "wiring regulations"
+    ]
+  },
+  {
+    "slug": "plumbing-license",
+    "name": "Plumbing License",
+    "category": "license",
+    "aliases": [
+      "licensed plumber",
+      "journeyman plumber",
+      "gas safe registration"
+    ]
+  },
+  {
+    "slug": "pipe-installation",
+    "name": "Pipe Installation & Repair",
+    "category": "practice",
+    "aliases": [
+      "pipefitting",
+      "plumbing installation",
+      "leak repair"
+    ]
+  },
+  {
+    "slug": "carpentry",
+    "name": "Carpentry",
+    "category": "practice",
+    "aliases": [
+      "joinery",
+      "framing",
+      "woodworking",
+      "finish carpentry"
+    ]
+  },
+  {
+    "slug": "blueprint-reading",
+    "name": "Blueprint Reading",
+    "category": "practice",
+    "aliases": [
+      "reading drawings",
+      "reading plans",
+      "blueprint reading"
+    ]
+  },
+  {
+    "slug": "power-tools",
+    "name": "Power Tools",
+    "category": "tool",
+    "aliases": [
+      "hand and power tools",
+      "tool operation"
+    ]
+  },
+  {
+    "slug": "hvac-systems",
+    "name": "HVAC Systems",
+    "category": "practice",
+    "aliases": [
+      "heating",
+      "air conditioning",
+      "refrigeration",
+      "ventilation"
+    ]
+  },
+  {
+    "slug": "refrigerant-certification",
+    "name": "Refrigerant Handling Certification",
+    "category": "certification",
+    "aliases": [
+      "epa 608",
+      "f-gas certification",
+      "refrigerant license"
+    ]
+  },
+  {
+    "slug": "welding",
+    "name": "Welding",
+    "category": "practice",
+    "aliases": [
+      "mig welding",
+      "tig welding",
+      "stick welding",
+      "arc welding"
+    ]
+  },
+  {
+    "slug": "welding-certification",
+    "name": "Welding Certification",
+    "category": "certification",
+    "aliases": [
+      "aws certified welder",
+      "coded welder",
+      "welding ticket"
+    ]
+  },
+  {
+    "slug": "vehicle-diagnostics",
+    "name": "Vehicle Diagnostics",
+    "category": "practice",
+    "aliases": [
+      "diagnostic tools",
+      "obd",
+      "fault finding"
+    ]
+  },
+  {
+    "slug": "vehicle-maintenance",
+    "name": "Vehicle Maintenance & Repair",
+    "category": "practice",
+    "aliases": [
+      "servicing",
+      "brake repair",
+      "engine repair"
+    ]
+  },
+  {
+    "slug": "ase-certification",
+    "name": "Automotive Technician Certification",
+    "category": "certification",
+    "aliases": [
+      "ase certification",
+      "imi accreditation",
+      "motor vehicle technician qualification"
+    ]
+  },
+  {
+    "slug": "trade-apprenticeship",
+    "name": "Completed Trade Apprenticeship",
+    "category": "certification",
+    "aliases": [
+      "apprenticeship",
+      "trade certificate",
+      "nvq level 3"
+    ]
+  }
+]

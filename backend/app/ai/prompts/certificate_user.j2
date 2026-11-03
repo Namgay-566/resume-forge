@@ -1,0 +1,13 @@
+Candidate skills (choose only from these):
+{% for skill in skills %}
+- {{ skill }}
+{% endfor %}
+
+{% if text %}
+Certificate text (extracted from the PDF):
+<certificate>
+{{ text }}
+</certificate>
+{% else %}
+The certificate is the attached image.
+{% endif %}

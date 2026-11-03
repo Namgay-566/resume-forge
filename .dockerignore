@@ -1,0 +1,8 @@
+# Root context is used by frontend/Dockerfile.
+**/node_modules
+**/dist
+**/.venv
+**/__pycache__
+**/.env
+backend/storage
+.git

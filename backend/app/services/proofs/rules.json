@@ -1,0 +1,396 @@
+{
+ "types": {
+  "github_repo": {
+   "label": "GitHub repository",
+   "must_include": [
+    "A public GitHub repository you own",
+    "At least 10 meaningful commits made over 3 or more days (not one bulk upload)",
+    "A README that explains what it does and how to run it",
+    "Code that clearly uses {skill} for a real feature"
+   ]
+  },
+  "live_link": {
+   "label": "Live website",
+   "must_include": [
+    "A live URL of something you built, linked to its GitHub repository proof",
+    "The site should use {skill} in a way a visitor can see"
+   ]
+  },
+  "certificate": {
+   "label": "Certificate",
+   "must_include": [
+    "A certificate issued to you by name, for a course or exam that covers {skill}",
+    "A verification link or credential ID from the issuer, so it can be checked"
+   ]
+  },
+  "professional_license": {
+   "label": "Licence or registration",
+   "must_include": [
+    "Your licence, registration or permit showing your name, number, issuing body and expiry date",
+    "It must be current (not expired)",
+    "Optional but recommended: a link to your entry on the issuing body's public register, so it can be fully verified"
+   ]
+  },
+  "portfolio_link": {
+   "label": "Portfolio link",
+   "must_include": [
+    "A public page of your work: a portfolio, published writing, a design profile or a case study",
+    "Your name on the page, so the work can be tied to you",
+    "Work that clearly shows {skill}"
+   ]
+  },
+  "work_sample": {
+   "label": "Work sample",
+   "must_include": [
+    "A document or image of real work you produced (a plan, report, design, lesson plan, spreadsheet export or photo of finished work)",
+    "Work that clearly shows {skill}",
+    "Remove confidential, client or patient details before uploading"
+   ]
+  },
+  "publication": {
+   "label": "Publication",
+   "must_include": [
+    "A DOI or a link to a paper, article, chapter or book",
+    "Your name must appear as an author",
+    "The work should show {skill}"
+   ]
+  },
+  "reference_letter": {
+   "label": "Reference letter",
+   "must_include": [
+    "A letter from a manager, supervisor, lecturer or client, ideally on their organisation's letterhead",
+    "It should say how you used {skill}, with an example",
+    "It counts as self-reported: we can't contact the writer, but employers can"
+   ]
+  },
+  "experience_letter": {
+   "label": "Experience letter",
+   "must_include": [
+    "A letter from an employer confirming your role, dates and duties",
+    "It should mention {skill} or the duties that used it",
+    "It counts as self-reported: we can't contact the employer, but employers can"
+   ]
+  },
+  "referee_confirmation": {
+   "label": "Referee confirmation",
+   "must_include": [
+    "A referee who worked with you and can speak to {skill}: a manager, supervisor, colleague or client",
+    "Their name, role, organisation and email address (a work email counts for more than a personal one)",
+    "The role, organisation and dates they can confirm"
+   ]
+  }
+ },
+ "category_defaults": {
+  "license": [
+   "professional_license",
+   "certificate"
+  ],
+  "certification": [
+   "certificate",
+   "professional_license"
+  ],
+  "soft_skill": [
+   "referee_confirmation",
+   "work_sample",
+   "reference_letter"
+  ],
+  "clinical": [
+   "certificate",
+   "referee_confirmation",
+   "experience_letter"
+  ],
+  "tool": [
+   "work_sample",
+   "certificate"
+  ],
+  "practice": [
+   "work_sample",
+   "referee_confirmation",
+   "certificate"
+  ],
+  "concept": [
+   "certificate",
+   "work_sample"
+  ],
+  "language": [
+   "certificate",
+   "referee_confirmation"
+  ],
+  "*": [
+   "work_sample",
+   "referee_confirmation",
+   "certificate"
+  ]
+ },
+ "industry_overrides": {
+  "technology": {
+   "language": [
+    "github_repo",
+    "live_link",
+    "certificate"
+   ],
+   "framework": [
+    "github_repo",
+    "live_link",
+    "certificate"
+   ],
+   "database": [
+    "github_repo",
+    "certificate"
+   ],
+   "library": [
+    "github_repo",
+    "certificate"
+   ],
+   "platform": [
+    "github_repo",
+    "live_link",
+    "certificate"
+   ],
+   "concept": [
+    "github_repo",
+    "live_link",
+    "certificate"
+   ],
+   "practice": [
+    "github_repo",
+    "certificate"
+   ],
+   "tool": [
+    "github_repo",
+    "certificate"
+   ]
+  },
+  "design-creative": {
+   "practice": [
+    "portfolio_link",
+    "work_sample",
+    "referee_confirmation"
+   ],
+   "tool": [
+    "portfolio_link",
+    "work_sample",
+    "certificate"
+   ],
+   "concept": [
+    "portfolio_link",
+    "work_sample"
+   ]
+  },
+  "marketing": {
+   "practice": [
+    "portfolio_link",
+    "work_sample",
+    "certificate"
+   ],
+   "tool": [
+    "certificate",
+    "work_sample"
+   ]
+  },
+  "research-academia": {
+   "practice": [
+    "publication",
+    "work_sample",
+    "referee_confirmation"
+   ]
+  },
+  "education": {
+   "practice": [
+    "work_sample",
+    "referee_confirmation",
+    "certificate"
+   ]
+  },
+  "skilled-trades": {
+   "practice": [
+    "referee_confirmation",
+    "work_sample",
+    "certificate"
+   ]
+  }
+ },
+ "skill_overrides": {
+  "spreadsheets": [
+   "work_sample",
+   "certificate"
+  ],
+  "bi-tools": [
+   "work_sample",
+   "certificate",
+   "portfolio_link"
+  ],
+  "data-visualization": [
+   "work_sample",
+   "portfolio_link",
+   "github_repo"
+  ],
+  "statistics": [
+   "work_sample",
+   "certificate",
+   "github_repo"
+  ],
+  "it-troubleshooting": [
+   "certificate",
+   "referee_confirmation",
+   "experience_letter"
+  ],
+  "help-desk-ticketing": [
+   "certificate",
+   "experience_letter"
+  ],
+  "operating-systems": [
+   "certificate",
+   "experience_letter"
+  ],
+  "active-directory": [
+   "certificate",
+   "experience_letter"
+  ],
+  "product-strategy": [
+   "work_sample",
+   "portfolio_link",
+   "referee_confirmation"
+  ],
+  "agile-methods": [
+   "certificate",
+   "referee_confirmation"
+  ],
+  "user-research": [
+   "portfolio_link",
+   "work_sample",
+   "referee_confirmation"
+  ],
+  "microsoft-office": [
+   "certificate",
+   "work_sample"
+  ],
+  "data-entry": [
+   "experience_letter",
+   "work_sample"
+  ],
+  "foreign-language": [
+   "certificate",
+   "referee_confirmation"
+  ],
+  "drivers-license": [
+   "professional_license"
+  ],
+  "commercial-drivers-license": [
+   "professional_license"
+  ],
+  "first-aid-cpr": [
+   "certificate"
+  ],
+  "safeguarding": [
+   "certificate"
+  ],
+  "academic-writing": [
+   "publication",
+   "work_sample"
+  ],
+  "literature-review": [
+   "publication",
+   "work_sample"
+  ],
+  "grant-writing": [
+   "work_sample",
+   "referee_confirmation"
+  ],
+  "content-writing": [
+   "portfolio_link",
+   "work_sample"
+  ],
+  "photography": [
+   "portfolio_link",
+   "work_sample"
+  ],
+  "photo-editing": [
+   "portfolio_link",
+   "work_sample"
+  ],
+  "video-editing": [
+   "portfolio_link",
+   "work_sample"
+  ],
+  "lesson-planning": [
+   "work_sample",
+   "referee_confirmation"
+  ],
+  "phd": [
+   "certificate",
+   "publication"
+  ],
+  "engineering-degree": [
+   "certificate"
+  ],
+  "git": [
+   "github_repo"
+  ],
+  "testing": [
+   "github_repo"
+  ],
+  "ci-cd": [
+   "github_repo"
+  ],
+  "docker": [
+   "github_repo"
+  ],
+  "authentication": [
+   "github_repo",
+   "live_link"
+  ],
+  "cloud-deployment": [
+   "live_link",
+   "github_repo",
+   "certificate"
+  ]
+ },
+ "requirements_by_slug": {
+  "git": {
+   "must_include": [
+    "A public GitHub repository you own with at least 10 meaningful commits and a README",
+    "Work done on feature branches, merged through at least 2 pull requests",
+    "Clear commit messages (no 'update', 'fix', 'asdf' strings of commits)"
+   ]
+  },
+  "testing": {
+   "must_include": [
+    "A public GitHub repository you own",
+    "At least 10 meaningful commits made over 3 or more days (not one bulk upload)",
+    "A README that explains what it does and how to run it",
+    "Automated tests that run with one command and pass"
+   ]
+  },
+  "ci-cd": {
+   "must_include": [
+    "A public GitHub repository you own",
+    "At least 10 meaningful commits made over 3 or more days (not one bulk upload)",
+    "A README that explains what it does and how to run it",
+    "A CI workflow (e.g. GitHub Actions) that runs tests on every push, with passing runs"
+   ]
+  },
+  "docker": {
+   "must_include": [
+    "A public GitHub repository you own",
+    "At least 10 meaningful commits made over 3 or more days (not one bulk upload)",
+    "A README that explains what it does and how to run it",
+    "A Dockerfile (and compose file if there are several services) that builds and runs the app"
+   ]
+  },
+  "authentication": {
+   "must_include": [
+    "A public GitHub repository you own",
+    "At least 10 meaningful commits made over 3 or more days (not one bulk upload)",
+    "A README that explains what it does and how to run it",
+    "Sign-up, login and a protected page or endpoint; passwords hashed, never stored in plain text"
+   ]
+  },
+  "cloud-deployment": {
+   "must_include": [
+    "A live URL of an app you deployed, plus the GitHub repo with deployment config",
+    "Or a current certificate from a recognised provider (AWS, Azure, Google Cloud)"
+   ]
+  }
+ }
+}

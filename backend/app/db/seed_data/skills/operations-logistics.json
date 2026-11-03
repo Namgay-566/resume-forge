@@ -1,0 +1,96 @@
+[
+  {
+    "slug": "supply-chain-management",
+    "name": "Supply Chain Management",
+    "category": "practice",
+    "aliases": [
+      "supply chain",
+      "demand planning",
+      "s&op"
+    ]
+  },
+  {
+    "slug": "logistics-coordination",
+    "name": "Logistics Coordination",
+    "category": "practice",
+    "aliases": [
+      "shipping",
+      "freight",
+      "transport planning",
+      "dispatch"
+    ]
+  },
+  {
+    "slug": "warehouse-operations",
+    "name": "Warehouse Operations",
+    "category": "practice",
+    "aliases": [
+      "picking and packing",
+      "order fulfilment",
+      "order fulfillment",
+      "goods in"
+    ]
+  },
+  {
+    "slug": "forklift-certification",
+    "name": "Forklift Certification",
+    "category": "certification",
+    "aliases": [
+      "forklift license",
+      "flt licence",
+      "counterbalance",
+      "reach truck"
+    ]
+  },
+  {
+    "slug": "procurement",
+    "name": "Procurement",
+    "category": "practice",
+    "aliases": [
+      "purchasing",
+      "sourcing",
+      "vendor management",
+      "supplier management"
+    ]
+  },
+  {
+    "slug": "erp-systems",
+    "name": "ERP Systems",
+    "category": "tool",
+    "aliases": [
+      "sap",
+      "oracle erp",
+      "microsoft dynamics",
+      "erp"
+    ]
+  },
+  {
+    "slug": "process-improvement",
+    "name": "Process Improvement",
+    "category": "practice",
+    "aliases": [
+      "continuous improvement",
+      "kaizen",
+      "business process improvement"
+    ]
+  },
+  {
+    "slug": "route-planning",
+    "name": "Route Planning",
+    "category": "practice",
+    "aliases": [
+      "navigation",
+      "delivery scheduling"
+    ]
+  },
+  {
+    "slug": "pmp-certification",
+    "name": "Project Management Certification (PMP/PRINCE2)",
+    "category": "certification",
+    "aliases": [
+      "pmp",
+      "prince2",
+      "capm"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{% include "_candidate.j2" %}
+
+Candidate skills (choose only from these):
+{% for skill in candidates %}
+- {{ skill }}
+{% endfor %}
+
+Resume text:
+<resume>
+{{ resume_text }}
+</resume>

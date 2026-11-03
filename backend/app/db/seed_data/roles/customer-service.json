@@ -1,0 +1,183 @@
+[
+  {
+    "industry": "customer-service",
+    "slug": "customer-service-representative",
+    "name": "Customer Service Representative",
+    "seniority": "entry",
+    "description": "Helps customers by phone, email or chat and resolves their questions and problems.",
+    "skills": [
+      {
+        "skill": "customer-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "communication",
+        "importance": "critical"
+      },
+      {
+        "skill": "complaint-resolution",
+        "importance": "important"
+      },
+      {
+        "skill": "help-desk-ticketing",
+        "importance": "important"
+      },
+      {
+        "skill": "empathy",
+        "importance": "important"
+      },
+      {
+        "skill": "typing-speed",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      }
+    ]
+  },
+  {
+    "industry": "customer-service",
+    "slug": "call-centre-agent",
+    "name": "Call Centre Agent",
+    "seniority": "entry",
+    "description": "Handles high volumes of customer calls, logs issues and meets service targets.",
+    "skills": [
+      {
+        "skill": "call-handling",
+        "importance": "critical"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "typing-speed",
+        "importance": "important"
+      },
+      {
+        "skill": "complaint-resolution",
+        "importance": "important"
+      },
+      {
+        "skill": "adaptability",
+        "importance": "important"
+      },
+      {
+        "skill": "data-entry",
+        "importance": "important"
+      },
+      {
+        "skill": "foreign-language",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "customer-service",
+    "slug": "customer-success-manager",
+    "name": "Customer Success Manager",
+    "seniority": "senior",
+    "description": "Helps customers get value from a product so they stay, renew and grow.",
+    "skills": [
+      {
+        "skill": "customer-success",
+        "importance": "critical"
+      },
+      {
+        "skill": "account-management",
+        "importance": "important"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "crm-software",
+        "importance": "important"
+      },
+      {
+        "skill": "presentation-skills",
+        "importance": "important"
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "customer-service",
+    "slug": "receptionist",
+    "name": "Receptionist",
+    "seniority": "entry",
+    "description": "Is the first point of contact for visitors and callers and keeps the front office running.",
+    "skills": [
+      {
+        "skill": "reception-duties",
+        "importance": "critical"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "communication",
+        "importance": "critical"
+      },
+      {
+        "skill": "microsoft-office",
+        "importance": "important"
+      },
+      {
+        "skill": "organisation",
+        "importance": "important"
+      },
+      {
+        "skill": "typing-speed",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "confidentiality",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "customer-service",
+    "slug": "technical-support-representative",
+    "name": "Technical Support Representative",
+    "seniority": "entry",
+    "description": "Solves customers' product and technical problems step by step, by phone, chat or email.",
+    "skills": [
+      {
+        "skill": "it-troubleshooting",
+        "importance": "critical"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "help-desk-ticketing",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "product-knowledge",
+        "importance": "important"
+      },
+      {
+        "skill": "patience-with-learners",
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

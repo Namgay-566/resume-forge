@@ -1,0 +1,240 @@
+[
+  {
+    "industry": "design-creative",
+    "slug": "graphic-designer",
+    "name": "Graphic Designer",
+    "seniority": "mid",
+    "description": "Creates visual designs for brands, print and digital, from logos to campaigns.",
+    "skills": [
+      {
+        "skill": "graphic-design",
+        "importance": "critical"
+      },
+      {
+        "skill": "adobe-creative-suite",
+        "importance": "critical"
+      },
+      {
+        "skill": "typography",
+        "importance": "important"
+      },
+      {
+        "skill": "design-portfolio",
+        "importance": "critical"
+      },
+      {
+        "skill": "creative-briefs",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "figma",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "time-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "design-creative",
+    "slug": "ux-ui-designer",
+    "name": "UX/UI Designer",
+    "seniority": "mid",
+    "description": "Designs how digital products look and work, based on research into what users need.",
+    "skills": [
+      {
+        "skill": "figma",
+        "importance": "critical"
+      },
+      {
+        "skill": "user-research",
+        "importance": "critical"
+      },
+      {
+        "skill": "wireframing-prototyping",
+        "importance": "critical"
+      },
+      {
+        "skill": "design-portfolio",
+        "importance": "critical"
+      },
+      {
+        "skill": "typography",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "accessibility",
+        "importance": "important"
+      },
+      {
+        "skill": "html-css",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "design-creative",
+    "slug": "photographer",
+    "name": "Photographer",
+    "seniority": "mid",
+    "description": "Plans and shoots photos for clients, events or publications and edits them to a professional finish.",
+    "skills": [
+      {
+        "skill": "photography",
+        "importance": "critical"
+      },
+      {
+        "skill": "photo-editing",
+        "importance": "critical"
+      },
+      {
+        "skill": "design-portfolio",
+        "importance": "critical"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "important"
+      },
+      {
+        "skill": "creative-briefs",
+        "importance": "important"
+      },
+      {
+        "skill": "organisation",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "drivers-license",
+        "importance": "nice_to_have"
+      }
+    ],
+    "sections": [
+      "summary",
+      "portfolio",
+      "experience",
+      "skills",
+      "awards",
+      "education"
+    ]
+  },
+  {
+    "industry": "design-creative",
+    "slug": "video-editor",
+    "name": "Video Editor",
+    "seniority": "mid",
+    "description": "Turns raw footage into finished videos with pacing, sound and graphics that tell the story.",
+    "skills": [
+      {
+        "skill": "video-editing",
+        "importance": "critical"
+      },
+      {
+        "skill": "design-portfolio",
+        "importance": "critical"
+      },
+      {
+        "skill": "motion-graphics",
+        "importance": "important"
+      },
+      {
+        "skill": "creative-briefs",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "time-management",
+        "importance": "important"
+      }
+    ]
+  },
+  {
+    "industry": "design-creative",
+    "slug": "interior-designer",
+    "name": "Interior Designer",
+    "seniority": "mid",
+    "description": "Designs functional, attractive interiors and manages projects from concept to installation.",
+    "skills": [
+      {
+        "skill": "interior-design",
+        "importance": "critical"
+      },
+      {
+        "skill": "cad-design",
+        "importance": "critical"
+      },
+      {
+        "skill": "design-portfolio",
+        "importance": "critical"
+      },
+      {
+        "skill": "budgeting",
+        "importance": "important"
+      },
+      {
+        "skill": "project-management",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "negotiation",
+        "importance": "nice_to_have"
+      }
+    ],
+    "sections": [
+      "summary",
+      "portfolio",
+      "experience",
+      "skills",
+      "education",
+      "certifications"
+    ]
+  },
+  {
+    "industry": "design-creative",
+    "slug": "illustrator",
+    "name": "Illustrator",
+    "seniority": "mid",
+    "description": "Creates original drawings for books, brands, products and media.",
+    "skills": [
+      {
+        "skill": "illustration",
+        "importance": "critical"
+      },
+      {
+        "skill": "design-portfolio",
+        "importance": "critical"
+      },
+      {
+        "skill": "adobe-creative-suite",
+        "importance": "important"
+      },
+      {
+        "skill": "creative-briefs",
+        "importance": "important"
+      },
+      {
+        "skill": "time-management",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

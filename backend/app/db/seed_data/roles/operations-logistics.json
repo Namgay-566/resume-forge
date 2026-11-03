@@ -1,0 +1,253 @@
+[
+  {
+    "industry": "operations-logistics",
+    "slug": "operations-manager",
+    "name": "Operations Manager",
+    "seniority": "senior",
+    "description": "Makes sure the business runs efficiently day to day: people, processes, budgets and targets.",
+    "skills": [
+      {
+        "skill": "leadership",
+        "importance": "critical"
+      },
+      {
+        "skill": "process-improvement",
+        "importance": "critical"
+      },
+      {
+        "skill": "budgeting",
+        "importance": "important"
+      },
+      {
+        "skill": "project-management",
+        "importance": "important"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "important"
+      },
+      {
+        "skill": "data-visualization",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      }
+    ]
+  },
+  {
+    "industry": "operations-logistics",
+    "slug": "supply-chain-analyst",
+    "name": "Supply Chain Analyst",
+    "seniority": "mid",
+    "description": "Analyses supply chain data to cut costs, avoid shortages and improve delivery.",
+    "skills": [
+      {
+        "skill": "supply-chain-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "critical"
+      },
+      {
+        "skill": "erp-systems",
+        "importance": "important"
+      },
+      {
+        "skill": "data-visualization",
+        "importance": "important"
+      },
+      {
+        "skill": "inventory-management",
+        "importance": "important"
+      },
+      {
+        "skill": "critical-thinking",
+        "importance": "important"
+      },
+      {
+        "skill": "sql",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "operations-logistics",
+    "slug": "warehouse-associate",
+    "name": "Warehouse Associate",
+    "seniority": "entry",
+    "description": "Receives, stores, picks and packs goods accurately and safely.",
+    "skills": [
+      {
+        "skill": "warehouse-operations",
+        "importance": "critical"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "critical"
+      },
+      {
+        "skill": "forklift-certification",
+        "importance": "important"
+      },
+      {
+        "skill": "inventory-management",
+        "importance": "important"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "physical-fitness",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "operations-logistics",
+    "slug": "logistics-coordinator",
+    "name": "Logistics Coordinator",
+    "seniority": "mid",
+    "description": "Arranges shipments and transport so goods arrive on time and on budget.",
+    "skills": [
+      {
+        "skill": "logistics-coordination",
+        "importance": "critical"
+      },
+      {
+        "skill": "organisation",
+        "importance": "critical"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "erp-systems",
+        "importance": "important"
+      },
+      {
+        "skill": "negotiation",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "important"
+      }
+    ]
+  },
+  {
+    "industry": "operations-logistics",
+    "slug": "procurement-specialist",
+    "name": "Procurement Specialist",
+    "seniority": "mid",
+    "description": "Sources suppliers and buys goods and services at the right price, quality and time.",
+    "skills": [
+      {
+        "skill": "procurement",
+        "importance": "critical"
+      },
+      {
+        "skill": "negotiation",
+        "importance": "critical"
+      },
+      {
+        "skill": "erp-systems",
+        "importance": "important"
+      },
+      {
+        "skill": "contract-law",
+        "importance": "important"
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "important"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "important"
+      }
+    ]
+  },
+  {
+    "industry": "operations-logistics",
+    "slug": "delivery-driver",
+    "name": "Delivery Driver",
+    "seniority": "entry",
+    "description": "Delivers goods safely and on time and represents the company at the customer's door.",
+    "skills": [
+      {
+        "skill": "drivers-license",
+        "importance": "critical"
+      },
+      {
+        "skill": "route-planning",
+        "importance": "important"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "important"
+      },
+      {
+        "skill": "time-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "important"
+      },
+      {
+        "skill": "commercial-drivers-license",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "operations-logistics",
+    "slug": "project-manager",
+    "name": "Project Manager",
+    "seniority": "senior",
+    "description": "Plans and delivers projects on time and budget, coordinating people, risks and scope.",
+    "skills": [
+      {
+        "skill": "project-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "budgeting",
+        "importance": "important"
+      },
+      {
+        "skill": "leadership",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "pmp-certification",
+        "importance": "important"
+      },
+      {
+        "skill": "agile-methods",
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

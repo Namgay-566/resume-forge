@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "recruitment",
+    "name": "Recruitment",
+    "category": "practice",
+    "aliases": [
+      "recruiting",
+      "talent acquisition",
+      "sourcing candidates",
+      "interviewing"
+    ]
+  },
+  {
+    "slug": "employee-relations",
+    "name": "Employee Relations",
+    "category": "practice",
+    "aliases": [
+      "grievances",
+      "disciplinaries",
+      "employee engagement"
+    ]
+  },
+  {
+    "slug": "employment-law",
+    "name": "Employment Law",
+    "category": "concept",
+    "aliases": [
+      "labour law",
+      "labor law",
+      "hr compliance"
+    ]
+  },
+  {
+    "slug": "hris",
+    "name": "HR Information Systems",
+    "category": "tool",
+    "aliases": [
+      "hris",
+      "workday",
+      "bamboohr",
+      "successfactors"
+    ]
+  },
+  {
+    "slug": "onboarding",
+    "name": "Onboarding",
+    "category": "practice",
+    "aliases": [
+      "induction",
+      "new hire onboarding"
+    ]
+  },
+  {
+    "slug": "training-delivery",
+    "name": "Training Delivery",
+    "category": "practice",
+    "aliases": [
+      "facilitation",
+      "training facilitation",
+      "learning and development",
+      "l&d"
+    ]
+  },
+  {
+    "slug": "performance-management",
+    "name": "Performance Management",
+    "category": "practice",
+    "aliases": [
+      "appraisals",
+      "performance reviews"
+    ]
+  },
+  {
+    "slug": "compensation-benefits",
+    "name": "Compensation & Benefits",
+    "category": "practice",
+    "aliases": [
+      "benefits administration",
+      "total rewards",
+      "pay benchmarking"
+    ]
+  },
+  {
+    "slug": "hr-certification",
+    "name": "HR Certification (SHRM/CIPD)",
+    "category": "certification",
+    "aliases": [
+      "shrm-cp",
+      "shrm",
+      "cipd",
+      "phr"
+    ]
+  }
+]

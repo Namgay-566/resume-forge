@@ -1,0 +1,232 @@
+[
+  {
+    "industry": "engineering",
+    "slug": "mechanical-engineer",
+    "name": "Mechanical Engineer",
+    "seniority": "mid",
+    "description": "Designs, tests and improves machines and mechanical products.",
+    "skills": [
+      {
+        "skill": "mechanical-design",
+        "importance": "critical"
+      },
+      {
+        "skill": "cad-design",
+        "importance": "critical"
+      },
+      {
+        "skill": "engineering-degree",
+        "importance": "critical"
+      },
+      {
+        "skill": "technical-drawing",
+        "importance": "important"
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      },
+      {
+        "skill": "project-management",
+        "importance": "important"
+      },
+      {
+        "skill": "matlab",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "professional-engineer-license",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "engineering",
+    "slug": "civil-engineer",
+    "name": "Civil Engineer",
+    "seniority": "mid",
+    "description": "Plans and oversees construction of roads, bridges, buildings and water systems.",
+    "skills": [
+      {
+        "skill": "structural-analysis",
+        "importance": "critical"
+      },
+      {
+        "skill": "building-codes",
+        "importance": "critical"
+      },
+      {
+        "skill": "engineering-degree",
+        "importance": "critical"
+      },
+      {
+        "skill": "cad-design",
+        "importance": "important"
+      },
+      {
+        "skill": "project-management",
+        "importance": "important"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "important"
+      },
+      {
+        "skill": "professional-engineer-license",
+        "importance": "important"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "engineering",
+    "slug": "electrical-engineer",
+    "name": "Electrical Engineer",
+    "seniority": "mid",
+    "description": "Designs and tests electrical systems, from circuits and controls to power distribution.",
+    "skills": [
+      {
+        "skill": "circuit-design",
+        "importance": "critical"
+      },
+      {
+        "skill": "engineering-degree",
+        "importance": "critical"
+      },
+      {
+        "skill": "technical-drawing",
+        "importance": "important"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "important"
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "important"
+      },
+      {
+        "skill": "cad-design",
+        "importance": "important"
+      },
+      {
+        "skill": "matlab",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "professional-engineer-license",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "engineering",
+    "slug": "chemical-engineer",
+    "name": "Chemical Engineer",
+    "seniority": "mid",
+    "description": "Designs and runs processes that turn raw materials into products safely and efficiently.",
+    "skills": [
+      {
+        "skill": "process-engineering",
+        "importance": "critical"
+      },
+      {
+        "skill": "engineering-degree",
+        "importance": "critical"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "critical"
+      },
+      {
+        "skill": "quality-management",
+        "importance": "important"
+      },
+      {
+        "skill": "root-cause-analysis",
+        "importance": "important"
+      },
+      {
+        "skill": "matlab",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "written-communication",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "engineering",
+    "slug": "quality-engineer",
+    "name": "Quality Engineer",
+    "seniority": "mid",
+    "description": "Makes sure products meet standards by designing tests, auditing processes and fixing root causes.",
+    "skills": [
+      {
+        "skill": "quality-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "root-cause-analysis",
+        "importance": "critical"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "technical-drawing",
+        "importance": "important"
+      },
+      {
+        "skill": "written-communication",
+        "importance": "important"
+      },
+      {
+        "skill": "auditing",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "engineering",
+    "slug": "cad-drafter",
+    "name": "CAD Drafter",
+    "seniority": "mid",
+    "description": "Turns engineers' and architects' designs into precise technical drawings.",
+    "skills": [
+      {
+        "skill": "cad-design",
+        "importance": "critical"
+      },
+      {
+        "skill": "technical-drawing",
+        "importance": "critical"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "critical"
+      },
+      {
+        "skill": "building-codes",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "time-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+/* Modern-Minimal: sans-serif, left-aligned, airy, no rules. Keep @page and --rf-page-margin equal. */
+@page {
+  size: A4;
+  margin: 18mm 20mm;
+}
+.rf-template-modern_minimal {
+  --rf-page-margin: 18mm 20mm;
+  --rf-font: Arial, "Liberation Sans", Helvetica, sans-serif;
+  --rf-font-size: 10.5pt;
+  --rf-line-height: 1.4;
+  --rf-name-size: 22pt;
+  --rf-heading-size: 9.5pt;
+  --rf-section-gap: 13pt;
+  --rf-entry-gap: 8pt;
+}
+.rf-template-modern_minimal .rf-headline {
+  font-size: 11.5pt;
+  color: #333333;
+}
+.rf-template-modern_minimal .rf-contact {
+  color: #333333;
+}
+.rf-template-modern_minimal .rf-heading {
+  letter-spacing: 0.14em;
+  color: #333333;
+  margin-bottom: 5pt;
+}

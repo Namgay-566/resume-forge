@@ -1,0 +1,23 @@
+/* Compact: small sans-serif, tight spacing, fits more on one page. Keep @page and --rf-page-margin equal. */
+@page {
+  size: A4;
+  margin: 12mm 14mm;
+}
+.rf-template-compact {
+  --rf-page-margin: 12mm 14mm;
+  --rf-font: Arial, "Liberation Sans", Helvetica, sans-serif;
+  --rf-font-size: 9.5pt;
+  --rf-line-height: 1.22;
+  --rf-name-size: 16pt;
+  --rf-heading-size: 9.5pt;
+  --rf-section-gap: 7pt;
+  --rf-entry-gap: 4pt;
+}
+.rf-template-compact .rf-heading {
+  border-bottom-width: 0.5pt;
+  margin-bottom: 3pt;
+}
+.rf-template-compact .rf-bullets {
+  padding-left: 12pt;
+  margin-top: 1pt;
+}

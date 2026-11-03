@@ -1,0 +1,232 @@
+[
+  {
+    "industry": "sales",
+    "slug": "sales-representative",
+    "name": "Sales Representative",
+    "seniority": "entry",
+    "description": "Finds and wins new customers, presents products and meets sales targets.",
+    "skills": [
+      {
+        "skill": "prospecting",
+        "importance": "critical"
+      },
+      {
+        "skill": "closing-deals",
+        "importance": "critical"
+      },
+      {
+        "skill": "communication",
+        "importance": "critical"
+      },
+      {
+        "skill": "negotiation",
+        "importance": "important"
+      },
+      {
+        "skill": "crm-software",
+        "importance": "important"
+      },
+      {
+        "skill": "product-knowledge",
+        "importance": "important"
+      },
+      {
+        "skill": "sales-pipeline-management",
+        "importance": "important"
+      },
+      {
+        "skill": "drivers-license",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "sales",
+    "slug": "account-executive",
+    "name": "Account Executive",
+    "seniority": "mid",
+    "description": "Owns deals from first meeting to signed contract, usually with larger business customers.",
+    "skills": [
+      {
+        "skill": "closing-deals",
+        "importance": "critical"
+      },
+      {
+        "skill": "sales-pipeline-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "negotiation",
+        "importance": "critical"
+      },
+      {
+        "skill": "presentation-skills",
+        "importance": "important"
+      },
+      {
+        "skill": "crm-software",
+        "importance": "important"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "important"
+      },
+      {
+        "skill": "prospecting",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "sales",
+    "slug": "retail-sales-associate",
+    "name": "Retail Sales Associate",
+    "seniority": "entry",
+    "description": "Helps shoppers find what they need, handles payments and keeps the store tidy and stocked.",
+    "skills": [
+      {
+        "skill": "customer-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "retail-pos",
+        "importance": "important"
+      },
+      {
+        "skill": "cash-handling",
+        "importance": "important"
+      },
+      {
+        "skill": "product-knowledge",
+        "importance": "important"
+      },
+      {
+        "skill": "visual-merchandising",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      }
+    ]
+  },
+  {
+    "industry": "sales",
+    "slug": "business-development-representative",
+    "name": "Business Development Representative",
+    "seniority": "entry",
+    "description": "Books meetings for the sales team by researching and contacting potential customers.",
+    "skills": [
+      {
+        "skill": "prospecting",
+        "importance": "critical"
+      },
+      {
+        "skill": "communication",
+        "importance": "critical"
+      },
+      {
+        "skill": "crm-software",
+        "importance": "important"
+      },
+      {
+        "skill": "written-communication",
+        "importance": "important"
+      },
+      {
+        "skill": "resilience-under-rejection",
+        "importance": "important"
+      },
+      {
+        "skill": "time-management",
+        "importance": "important"
+      },
+      {
+        "skill": "market-research",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "sales",
+    "slug": "account-manager",
+    "name": "Account Manager",
+    "seniority": "senior",
+    "description": "Looks after existing customers, keeps them happy and grows their spend over time.",
+    "skills": [
+      {
+        "skill": "account-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "important"
+      },
+      {
+        "skill": "negotiation",
+        "importance": "important"
+      },
+      {
+        "skill": "crm-software",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "presentation-skills",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "sales",
+    "slug": "real-estate-agent",
+    "name": "Real Estate Agent",
+    "seniority": "entry",
+    "description": "Helps people buy, sell or rent property, from valuations and viewings to negotiating the deal.",
+    "skills": [
+      {
+        "skill": "real-estate-license",
+        "importance": "critical"
+      },
+      {
+        "skill": "negotiation",
+        "importance": "critical"
+      },
+      {
+        "skill": "property-valuation",
+        "importance": "important"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "important"
+      },
+      {
+        "skill": "prospecting",
+        "importance": "important"
+      },
+      {
+        "skill": "drivers-license",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "crm-software",
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

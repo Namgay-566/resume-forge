@@ -1,0 +1,257 @@
+[
+  {
+    "industry": "hospitality",
+    "slug": "line-cook",
+    "name": "Line Cook",
+    "seniority": "entry",
+    "description": "Prepares and cooks dishes to recipe during service, keeping the station clean and safe.",
+    "skills": [
+      {
+        "skill": "food-preparation",
+        "importance": "critical"
+      },
+      {
+        "skill": "food-hygiene-certificate",
+        "importance": "critical"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "important"
+      },
+      {
+        "skill": "time-management",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "inventory-management",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "menu-planning",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "hospitality",
+    "slug": "hotel-front-desk-agent",
+    "name": "Hotel Front Desk Agent",
+    "seniority": "entry",
+    "description": "Welcomes guests, handles check-in and check-out, and solves problems during their stay.",
+    "skills": [
+      {
+        "skill": "front-desk-operations",
+        "importance": "critical"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "property-management-system",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "cash-handling",
+        "importance": "important"
+      },
+      {
+        "skill": "conflict-resolution",
+        "importance": "important"
+      },
+      {
+        "skill": "foreign-language",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "hospitality",
+    "slug": "restaurant-server",
+    "name": "Restaurant Server",
+    "seniority": "entry",
+    "description": "Takes orders, serves food and drinks and makes sure guests have a great experience.",
+    "skills": [
+      {
+        "skill": "table-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "food-hygiene-certificate",
+        "importance": "important"
+      },
+      {
+        "skill": "retail-pos",
+        "importance": "important"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "important"
+      },
+      {
+        "skill": "alcohol-service-certification",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "time-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "hospitality",
+    "slug": "hotel-manager",
+    "name": "Hotel Manager",
+    "seniority": "senior",
+    "description": "Runs a hotel's day-to-day operations, staff, budget and guest satisfaction.",
+    "skills": [
+      {
+        "skill": "leadership",
+        "importance": "critical"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "budgeting",
+        "importance": "critical"
+      },
+      {
+        "skill": "front-desk-operations",
+        "importance": "important"
+      },
+      {
+        "skill": "property-management-system",
+        "importance": "important"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "important"
+      },
+      {
+        "skill": "conflict-resolution",
+        "importance": "important"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "hospitality",
+    "slug": "barista",
+    "name": "Barista",
+    "seniority": "entry",
+    "description": "Makes coffee and other drinks to a consistent standard and serves customers quickly and warmly.",
+    "skills": [
+      {
+        "skill": "barista-skills",
+        "importance": "critical"
+      },
+      {
+        "skill": "customer-service",
+        "importance": "critical"
+      },
+      {
+        "skill": "food-hygiene-certificate",
+        "importance": "important"
+      },
+      {
+        "skill": "cash-handling",
+        "importance": "important"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "important"
+      },
+      {
+        "skill": "time-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "hospitality",
+    "slug": "event-coordinator",
+    "name": "Event Coordinator",
+    "seniority": "mid",
+    "description": "Plans and runs events, from venues and suppliers to schedules and on-the-day problems.",
+    "skills": [
+      {
+        "skill": "event-planning",
+        "importance": "critical"
+      },
+      {
+        "skill": "organisation",
+        "importance": "critical"
+      },
+      {
+        "skill": "budgeting",
+        "importance": "important"
+      },
+      {
+        "skill": "negotiation",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "project-management",
+        "importance": "important"
+      },
+      {
+        "skill": "problem-solving",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "hospitality",
+    "slug": "housekeeping-supervisor",
+    "name": "Housekeeping Supervisor",
+    "seniority": "senior",
+    "description": "Leads the housekeeping team and keeps rooms and public areas to standard.",
+    "skills": [
+      {
+        "skill": "housekeeping-standards",
+        "importance": "critical"
+      },
+      {
+        "skill": "leadership",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "critical"
+      },
+      {
+        "skill": "inventory-management",
+        "importance": "important"
+      },
+      {
+        "skill": "health-and-safety",
+        "importance": "important"
+      },
+      {
+        "skill": "time-management",
+        "importance": "important"
+      }
+    ]
+  }
+]

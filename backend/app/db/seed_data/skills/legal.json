@@ -1,0 +1,96 @@
+[
+  {
+    "slug": "bar-admission",
+    "name": "Bar Admission / Practising Certificate",
+    "category": "license",
+    "aliases": [
+      "bar admission",
+      "licensed attorney",
+      "practising certificate",
+      "admitted solicitor",
+      "called to the bar"
+    ]
+  },
+  {
+    "slug": "legal-research",
+    "name": "Legal Research",
+    "category": "practice",
+    "aliases": [
+      "westlaw",
+      "lexisnexis",
+      "case law research"
+    ]
+  },
+  {
+    "slug": "legal-writing",
+    "name": "Legal Drafting",
+    "category": "practice",
+    "aliases": [
+      "legal writing",
+      "drafting contracts",
+      "drafting pleadings"
+    ]
+  },
+  {
+    "slug": "contract-law",
+    "name": "Contract Law",
+    "category": "concept",
+    "aliases": [
+      "contracts",
+      "commercial contracts",
+      "contract review"
+    ]
+  },
+  {
+    "slug": "litigation-support",
+    "name": "Litigation Support",
+    "category": "practice",
+    "aliases": [
+      "case preparation",
+      "discovery",
+      "disclosure",
+      "court filings"
+    ]
+  },
+  {
+    "slug": "case-management-software",
+    "name": "Legal Case Management Software",
+    "category": "tool",
+    "aliases": [
+      "clio",
+      "practice management software",
+      "e-filing"
+    ]
+  },
+  {
+    "slug": "regulatory-compliance",
+    "name": "Regulatory Compliance",
+    "category": "practice",
+    "aliases": [
+      "compliance monitoring",
+      "aml",
+      "kyc",
+      "gdpr compliance",
+      "policy compliance"
+    ]
+  },
+  {
+    "slug": "paralegal-certificate",
+    "name": "Paralegal Certificate",
+    "category": "certification",
+    "aliases": [
+      "paralegal certification",
+      "cilex",
+      "nala"
+    ]
+  },
+  {
+    "slug": "confidentiality",
+    "name": "Confidentiality & Discretion",
+    "category": "soft_skill",
+    "aliases": [
+      "discretion",
+      "handling confidential information"
+    ]
+  }
+]

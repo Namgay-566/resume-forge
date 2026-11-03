@@ -1,0 +1,191 @@
+[
+  {
+    "industry": "legal",
+    "slug": "paralegal",
+    "name": "Paralegal",
+    "seniority": "mid",
+    "description": "Supports lawyers with research, document preparation and case management.",
+    "skills": [
+      {
+        "skill": "legal-research",
+        "importance": "critical"
+      },
+      {
+        "skill": "legal-writing",
+        "importance": "important"
+      },
+      {
+        "skill": "litigation-support",
+        "importance": "important"
+      },
+      {
+        "skill": "case-management-software",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "critical"
+      },
+      {
+        "skill": "confidentiality",
+        "importance": "important"
+      },
+      {
+        "skill": "paralegal-certificate",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "organisation",
+        "importance": "important"
+      }
+    ]
+  },
+  {
+    "industry": "legal",
+    "slug": "lawyer",
+    "name": "Lawyer",
+    "seniority": "mid",
+    "description": "Advises clients on their legal rights, drafts documents and represents them in negotiations or court.",
+    "skills": [
+      {
+        "skill": "bar-admission",
+        "importance": "critical"
+      },
+      {
+        "skill": "legal-research",
+        "importance": "critical"
+      },
+      {
+        "skill": "legal-writing",
+        "importance": "critical"
+      },
+      {
+        "skill": "negotiation",
+        "importance": "important"
+      },
+      {
+        "skill": "critical-thinking",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "contract-law",
+        "importance": "important"
+      },
+      {
+        "skill": "confidentiality",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "legal",
+    "slug": "legal-secretary",
+    "name": "Legal Secretary",
+    "seniority": "mid",
+    "description": "Keeps a legal team organised: correspondence, diaries, filings and client communication.",
+    "skills": [
+      {
+        "skill": "organisation",
+        "importance": "critical"
+      },
+      {
+        "skill": "confidentiality",
+        "importance": "critical"
+      },
+      {
+        "skill": "legal-writing",
+        "importance": "important"
+      },
+      {
+        "skill": "case-management-software",
+        "importance": "important"
+      },
+      {
+        "skill": "microsoft-office",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "legal",
+    "slug": "compliance-officer",
+    "name": "Compliance Officer",
+    "seniority": "mid",
+    "description": "Makes sure an organisation follows the laws and regulations that apply to it.",
+    "skills": [
+      {
+        "skill": "regulatory-compliance",
+        "importance": "critical"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "critical"
+      },
+      {
+        "skill": "written-communication",
+        "importance": "important"
+      },
+      {
+        "skill": "auditing",
+        "importance": "important"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "important"
+      },
+      {
+        "skill": "critical-thinking",
+        "importance": "important"
+      },
+      {
+        "skill": "internal-controls",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "legal",
+    "slug": "contracts-manager",
+    "name": "Contracts Manager",
+    "seniority": "senior",
+    "description": "Drafts, negotiates and manages contracts so the organisation's obligations and risks are clear.",
+    "skills": [
+      {
+        "skill": "contract-law",
+        "importance": "critical"
+      },
+      {
+        "skill": "negotiation",
+        "importance": "critical"
+      },
+      {
+        "skill": "legal-writing",
+        "importance": "important"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "project-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

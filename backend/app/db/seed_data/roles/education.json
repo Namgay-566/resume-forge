@@ -1,0 +1,267 @@
+[
+  {
+    "industry": "education",
+    "slug": "primary-school-teacher",
+    "name": "Primary School Teacher",
+    "seniority": "mid",
+    "description": "Plans and teaches lessons across the primary curriculum and supports each child's learning and wellbeing.",
+    "skills": [
+      {
+        "skill": "teaching-certification",
+        "importance": "critical"
+      },
+      {
+        "skill": "lesson-planning",
+        "importance": "critical"
+      },
+      {
+        "skill": "classroom-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "safeguarding",
+        "importance": "critical"
+      },
+      {
+        "skill": "student-assessment",
+        "importance": "important"
+      },
+      {
+        "skill": "differentiated-instruction",
+        "importance": "important"
+      },
+      {
+        "skill": "parent-communication",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "educational-technology",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "special-educational-needs",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "education",
+    "slug": "secondary-school-teacher",
+    "name": "Secondary School Teacher",
+    "seniority": "mid",
+    "description": "Teaches a specialist subject to teenagers, prepares them for exams and supports their progress.",
+    "skills": [
+      {
+        "skill": "teaching-certification",
+        "importance": "critical"
+      },
+      {
+        "skill": "subject-knowledge",
+        "importance": "critical"
+      },
+      {
+        "skill": "lesson-planning",
+        "importance": "critical"
+      },
+      {
+        "skill": "classroom-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "safeguarding",
+        "importance": "critical"
+      },
+      {
+        "skill": "student-assessment",
+        "importance": "important"
+      },
+      {
+        "skill": "differentiated-instruction",
+        "importance": "important"
+      },
+      {
+        "skill": "educational-technology",
+        "importance": "important"
+      },
+      {
+        "skill": "presentation-skills",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "education",
+    "slug": "teaching-assistant",
+    "name": "Teaching Assistant",
+    "seniority": "entry",
+    "description": "Supports teachers in the classroom and helps individual pupils or small groups with their learning.",
+    "skills": [
+      {
+        "skill": "classroom-management",
+        "importance": "important"
+      },
+      {
+        "skill": "safeguarding",
+        "importance": "critical"
+      },
+      {
+        "skill": "special-educational-needs",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "critical"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "important"
+      },
+      {
+        "skill": "patience-with-learners",
+        "importance": "important"
+      },
+      {
+        "skill": "first-aid-cpr",
+        "importance": "nice_to_have"
+      }
+    ],
+    "sections": [
+      "summary",
+      "experience",
+      "teaching_experience",
+      "education",
+      "skills",
+      "training"
+    ]
+  },
+  {
+    "industry": "education",
+    "slug": "special-education-teacher",
+    "name": "Special Education Teacher",
+    "seniority": "mid",
+    "description": "Adapts teaching for pupils with learning, emotional or physical needs and works with families and specialists.",
+    "skills": [
+      {
+        "skill": "teaching-certification",
+        "importance": "critical"
+      },
+      {
+        "skill": "special-educational-needs",
+        "importance": "critical"
+      },
+      {
+        "skill": "differentiated-instruction",
+        "importance": "critical"
+      },
+      {
+        "skill": "safeguarding",
+        "importance": "critical"
+      },
+      {
+        "skill": "student-assessment",
+        "importance": "important"
+      },
+      {
+        "skill": "parent-communication",
+        "importance": "important"
+      },
+      {
+        "skill": "empathy",
+        "importance": "important"
+      },
+      {
+        "skill": "patience-with-learners",
+        "importance": "important"
+      },
+      {
+        "skill": "classroom-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "education",
+    "slug": "early-years-educator",
+    "name": "Early Years Educator",
+    "seniority": "mid",
+    "description": "Cares for and teaches young children through play, observation and planned activities.",
+    "skills": [
+      {
+        "skill": "early-childhood-development",
+        "importance": "critical"
+      },
+      {
+        "skill": "safeguarding",
+        "importance": "critical"
+      },
+      {
+        "skill": "first-aid-cpr",
+        "importance": "important"
+      },
+      {
+        "skill": "lesson-planning",
+        "importance": "important"
+      },
+      {
+        "skill": "parent-communication",
+        "importance": "important"
+      },
+      {
+        "skill": "patience-with-learners",
+        "importance": "important"
+      },
+      {
+        "skill": "teamwork",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "education",
+    "slug": "tutor",
+    "name": "Tutor",
+    "seniority": "mid",
+    "description": "Teaches individuals or small groups to help them understand a subject and reach their goals.",
+    "skills": [
+      {
+        "skill": "subject-knowledge",
+        "importance": "critical"
+      },
+      {
+        "skill": "communication",
+        "importance": "critical"
+      },
+      {
+        "skill": "lesson-planning",
+        "importance": "important"
+      },
+      {
+        "skill": "student-assessment",
+        "importance": "important"
+      },
+      {
+        "skill": "patience-with-learners",
+        "importance": "important"
+      },
+      {
+        "skill": "educational-technology",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "safeguarding",
+        "importance": "nice_to_have"
+      }
+    ],
+    "sections": [
+      "summary",
+      "teaching_experience",
+      "education",
+      "skills",
+      "certifications"
+    ]
+  }
+]

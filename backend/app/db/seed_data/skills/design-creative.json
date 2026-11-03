@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "graphic-design",
+    "name": "Graphic Design",
+    "category": "practice",
+    "aliases": [
+      "visual design",
+      "layout design",
+      "brand design"
+    ]
+  },
+  {
+    "slug": "adobe-creative-suite",
+    "name": "Adobe Creative Suite",
+    "category": "tool",
+    "aliases": [
+      "photoshop",
+      "illustrator",
+      "indesign",
+      "adobe creative cloud"
+    ]
+  },
+  {
+    "slug": "figma",
+    "name": "Figma",
+    "category": "tool",
+    "aliases": [
+      "figma design",
+      "sketch",
+      "adobe xd"
+    ]
+  },
+  {
+    "slug": "typography",
+    "name": "Typography",
+    "category": "concept",
+    "aliases": [
+      "type design",
+      "font pairing"
+    ]
+  },
+  {
+    "slug": "user-research",
+    "name": "User Research",
+    "category": "practice",
+    "aliases": [
+      "usability testing",
+      "user interviews",
+      "ux research"
+    ]
+  },
+  {
+    "slug": "wireframing-prototyping",
+    "name": "Wireframing & Prototyping",
+    "category": "practice",
+    "aliases": [
+      "wireframes",
+      "prototyping",
+      "interaction design"
+    ]
+  },
+  {
+    "slug": "design-portfolio",
+    "name": "Design Portfolio",
+    "category": "practice",
+    "aliases": [
+      "portfolio",
+      "creative portfolio"
+    ]
+  },
+  {
+    "slug": "photography",
+    "name": "Photography",
+    "category": "practice",
+    "aliases": [
+      "photo shoots",
+      "studio photography",
+      "product photography"
+    ]
+  },
+  {
+    "slug": "photo-editing",
+    "name": "Photo Editing",
+    "category": "tool",
+    "aliases": [
+      "lightroom",
+      "retouching",
+      "capture one"
+    ]
+  },
+  {
+    "slug": "video-editing",
+    "name": "Video Editing",
+    "category": "tool",
+    "aliases": [
+      "premiere pro",
+      "final cut pro",
+      "davinci resolve",
+      "after effects"
+    ]
+  },
+  {
+    "slug": "motion-graphics",
+    "name": "Motion Graphics",
+    "category": "practice",
+    "aliases": [
+      "animation",
+      "after effects animation"
+    ]
+  },
+  {
+    "slug": "interior-design",
+    "name": "Space Planning",
+    "category": "practice",
+    "aliases": [
+      "interior design",
+      "space planning",
+      "floor plans"
+    ]
+  },
+  {
+    "slug": "cad-design",
+    "name": "CAD Software",
+    "category": "tool",
+    "aliases": [
+      "autocad",
+      "sketchup",
+      "revit",
+      "solidworks",
+      "cad"
+    ]
+  },
+  {
+    "slug": "illustration",
+    "name": "Illustration",
+    "category": "practice",
+    "aliases": [
+      "digital illustration",
+      "drawing",
+      "procreate"
+    ]
+  },
+  {
+    "slug": "creative-briefs",
+    "name": "Working to a Creative Brief",
+    "category": "practice",
+    "aliases": [
+      "creative brief",
+      "client briefs"
+    ]
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "slug": "engineering-degree",
+    "name": "Engineering Degree",
+    "category": "certification",
+    "aliases": [
+      "bachelor of engineering",
+      "b.eng",
+      "b.tech",
+      "bsc engineering"
+    ]
+  },
+  {
+    "slug": "professional-engineer-license",
+    "name": "Professional Engineer License (PE/Chartered)",
+    "category": "license",
+    "aliases": [
+      "pe license",
+      "chartered engineer",
+      "ceng",
+      "p.eng"
+    ]
+  },
+  {
+    "slug": "mechanical-design",
+    "name": "Mechanical Design",
+    "category": "practice",
+    "aliases": [
+      "machine design",
+      "product design",
+      "gd&t"
+    ]
+  },
+  {
+    "slug": "structural-analysis",
+    "name": "Structural Analysis",
+    "category": "practice",
+    "aliases": [
+      "structural design",
+      "load calculations",
+      "finite element analysis",
+      "fea"
+    ]
+  },
+  {
+    "slug": "circuit-design",
+    "name": "Circuit Design",
+    "category": "practice",
+    "aliases": [
+      "electrical design",
+      "schematics",
+      "pcb design"
+    ]
+  },
+  {
+    "slug": "process-engineering",
+    "name": "Process Engineering",
+    "category": "practice",
+    "aliases": [
+      "process optimisation",
+      "process optimization",
+      "process design"
+    ]
+  },
+  {
+    "slug": "quality-management",
+    "name": "Quality Management",
+    "category": "practice",
+    "aliases": [
+      "iso 9001",
+      "quality assurance",
+      "qms",
+      "six sigma",
+      "lean"
+    ]
+  },
+  {
+    "slug": "root-cause-analysis",
+    "name": "Root Cause Analysis",
+    "category": "practice",
+    "aliases": [
+      "rca",
+      "8d",
+      "fishbone",
+      "5 whys"
+    ]
+  },
+  {
+    "slug": "building-codes",
+    "name": "Building Codes & Standards",
+    "category": "concept",
+    "aliases": [
+      "building regulations",
+      "eurocodes",
+      "engineering standards"
+    ]
+  },
+  {
+    "slug": "technical-drawing",
+    "name": "Technical Drawing",
+    "category": "practice",
+    "aliases": [
+      "engineering drawings",
+      "drafting",
+      "blueprints"
+    ]
+  },
+  {
+    "slug": "matlab",
+    "name": "MATLAB",
+    "category": "tool",
+    "aliases": [
+      "matlab",
+      "simulink"
+    ]
+  }
+]

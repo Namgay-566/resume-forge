@@ -1,0 +1,30 @@
+/* Conservative: serif, centred header, double-ruled headings, no colour. For finance, law and
+   government. Keep @page and --rf-page-margin equal. */
+@page {
+  size: A4;
+  margin: 20mm 22mm;
+}
+.rf-template-conservative {
+  --rf-page-margin: 20mm 22mm;
+  --rf-font: Georgia, "Times New Roman", "Liberation Serif", Times, serif;
+  --rf-font-size: 10.5pt;
+  --rf-line-height: 1.32;
+  --rf-name-size: 17pt;
+  --rf-heading-size: 10pt;
+  --rf-section-gap: 11pt;
+  --rf-entry-gap: 7pt;
+}
+.rf-template-conservative .rf-identity {
+  text-align: center;
+}
+.rf-template-conservative .rf-name {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+.rf-template-conservative .rf-heading {
+  letter-spacing: 0.1em;
+  border-top-width: 0.5pt;
+  border-bottom-width: 0.5pt;
+  padding: 1.5pt 0;
+  text-align: center;
+}

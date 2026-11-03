@@ -1,0 +1,23 @@
+{
+  "free": [
+    "gmail.com", "googlemail.com", "yahoo.com", "yahoo.co.uk", "yahoo.co.in", "yahoo.fr",
+    "yahoo.de", "yahoo.es", "yahoo.it", "yahoo.ca", "yahoo.com.au", "ymail.com", "rocketmail.com",
+    "outlook.com", "hotmail.com", "hotmail.co.uk", "hotmail.fr", "hotmail.de", "hotmail.it",
+    "live.com", "live.co.uk", "msn.com", "icloud.com", "me.com", "mac.com", "aol.com",
+    "proton.me", "protonmail.com", "pm.me", "gmx.com", "gmx.de", "gmx.net", "web.de",
+    "mail.com", "email.com", "zoho.com", "zohomail.com", "yandex.com", "yandex.ru", "mail.ru",
+    "qq.com", "163.com", "126.com", "sina.com", "naver.com", "daum.net", "rediffmail.com",
+    "btinternet.com", "sky.com", "virginmedia.com", "talktalk.net", "orange.fr", "free.fr",
+    "laposte.net", "libero.it", "tiscali.it", "t-online.de", "comcast.net", "verizon.net",
+    "att.net", "sbcglobal.net", "bigpond.com", "optusnet.com.au", "fastmail.com", "tutanota.com",
+    "hey.com", "inbox.com", "seznam.cz", "wp.pl", "o2.pl", "interia.pl", "uol.com.br",
+    "bol.com.br", "terra.com.br"
+  ],
+  "disposable": [
+    "mailinator.com", "guerrillamail.com", "guerrillamail.net", "sharklasers.com",
+    "10minutemail.com", "temp-mail.org", "tempmail.com", "tempmailo.com", "yopmail.com",
+    "trashmail.com", "getnada.com", "dispostable.com", "maildrop.cc", "throwawaymail.com",
+    "fakeinbox.com", "mintemail.com", "mohmal.com", "emailondeck.com", "moakt.com",
+    "tempr.email", "discard.email", "spamgourmet.com", "mailnesia.com", "burnermail.io"
+  ]
+}

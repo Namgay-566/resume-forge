@@ -1,0 +1,699 @@
+{
+  "kinds": [
+    {
+      "kind": "summary",
+      "heading": "Summary",
+      "standard_headings": [
+        "summary",
+        "professional summary",
+        "profile",
+        "career summary",
+        "personal statement",
+        "objective",
+        "career objective",
+        "about me"
+      ],
+      "hint": "Two or three sentences on who you are and what you're aiming for."
+    },
+    {
+      "kind": "experience",
+      "heading": "Experience",
+      "standard_headings": [
+        "experience",
+        "work experience",
+        "professional experience",
+        "employment history",
+        "work history",
+        "employment",
+        "relevant experience",
+        "career history"
+      ],
+      "hint": "Most recent first. Start bullets with a verb and include numbers where you can.",
+      "bullet_guidance": "A job. Lead with what you did and the result for the employer, customers, patients, pupils or clients.",
+      "counts_as_experience": true
+    },
+    {
+      "kind": "education",
+      "heading": "Education",
+      "standard_headings": [
+        "education",
+        "education and qualifications",
+        "qualifications",
+        "academic background",
+        "education and training"
+      ],
+      "bullet_guidance": "A course or degree. Show a module, grade, dissertation or final project, and what it taught you that the target role uses."
+    },
+    {
+      "kind": "skills",
+      "heading": "Skills",
+      "standard_headings": [
+        "skills",
+        "key skills",
+        "core skills",
+        "technical skills",
+        "core competencies",
+        "competencies",
+        "skills and abilities"
+      ],
+      "hint": "One skill per row, using the name employers put in job adverts."
+    },
+    {
+      "kind": "projects",
+      "heading": "Projects",
+      "standard_headings": [
+        "projects",
+        "key projects",
+        "selected projects",
+        "personal projects",
+        "academic projects"
+      ],
+      "hint": "Coursework, personal or work projects that show what you can do.",
+      "bullet_guidance": "A project (coursework, personal or work). Say what was made or delivered, your part in it, how, and what came of it."
+    },
+    {
+      "kind": "certifications",
+      "heading": "Licenses & Certifications",
+      "standard_headings": [
+        "licenses & certifications",
+        "licenses and certifications",
+        "licences and certifications",
+        "licenses",
+        "licences",
+        "certifications",
+        "certificates",
+        "credentials",
+        "registrations",
+        "bar admissions",
+        "professional licenses"
+      ],
+      "hint": "Licences, registrations and certificates, with the issuer and your licence or credential number."
+    },
+    {
+      "kind": "achievements",
+      "heading": "Achievements",
+      "standard_headings": [
+        "achievements",
+        "key achievements",
+        "accomplishments",
+        "highlights"
+      ],
+      "hint": "Results you're proud of that don't fit under a single job.",
+      "bullet_guidance": "A stand-alone achievement. State the achievement and why it mattered, with its scale or result."
+    },
+    {
+      "kind": "clinical_experience",
+      "heading": "Clinical Experience",
+      "standard_headings": [
+        "clinical experience",
+        "clinical placements",
+        "clinical rotations",
+        "placements",
+        "clinical practice"
+      ],
+      "hint": "Placements, rotations and clinical roles. Include the ward or specialty and the patient groups you cared for.",
+      "bullet_guidance": "A clinical placement or post. Show patient care delivered, caseload or acuity, procedures and assessments performed, the level of supervision, and safety or patient outcomes.",
+      "item_label": "placement",
+      "counts_as_experience": true,
+      "fields": {
+        "title": {
+          "label": "Role",
+          "placeholder": "Student Nurse"
+        },
+        "organization": {
+          "label": "Hospital or clinic",
+          "placeholder": "St Mary's Hospital"
+        },
+        "location": {
+          "label": "Ward, unit or location",
+          "placeholder": "Cardiology ward, London"
+        },
+        "dates": "range",
+        "bullets": {
+          "label": "What you did",
+          "placeholder": "Monitored vital signs for 8 post-operative patients per shift"
+        }
+      }
+    },
+    {
+      "kind": "teaching_experience",
+      "heading": "Teaching Experience",
+      "standard_headings": [
+        "teaching experience",
+        "teaching",
+        "teaching and training experience",
+        "classroom experience",
+        "teaching placements"
+      ],
+      "hint": "Teaching posts, placements and courses you taught. Mention the age group or level and the subject.",
+      "bullet_guidance": "A teaching role. Show who was taught (age, level, class size), what was planned or taught and how, and the effect on pupils' progress, results, attendance or engagement.",
+      "item_label": "teaching role",
+      "counts_as_experience": true,
+      "fields": {
+        "title": {
+          "label": "Role or course",
+          "placeholder": "Year 5 Class Teacher"
+        },
+        "organization": {
+          "label": "School or institution",
+          "placeholder": "Oakfield Primary School"
+        },
+        "location": {
+          "label": "Location"
+        },
+        "dates": "range",
+        "bullets": {
+          "label": "What you did",
+          "placeholder": "Raised reading scores for a class of 28 through small-group phonics"
+        }
+      }
+    },
+    {
+      "kind": "internships",
+      "heading": "Internships",
+      "standard_headings": [
+        "internships",
+        "internship experience",
+        "work placements",
+        "placements",
+        "apprenticeships",
+        "work experience placements"
+      ],
+      "hint": "Internships, placements, apprenticeships and work shadowing.",
+      "bullet_guidance": "An internship. Show real responsibilities and what they contributed to the team, as for a job, without overstating seniority.",
+      "item_label": "internship",
+      "fields": {
+        "title": {
+          "label": "Role",
+          "placeholder": "Marketing Intern"
+        },
+        "organization": {
+          "label": "Organisation"
+        },
+        "location": {
+          "label": "Location"
+        },
+        "dates": "range",
+        "bullets": {
+          "label": "What you did",
+          "placeholder": "Drafted weekly social posts that grew followers by 15%"
+        }
+      }
+    },
+    {
+      "kind": "volunteer",
+      "heading": "Volunteer Work",
+      "standard_headings": [
+        "volunteer work",
+        "volunteering",
+        "volunteer experience",
+        "community involvement",
+        "community service"
+      ],
+      "hint": "Volunteering counts as experience. Describe it like a job.",
+      "bullet_guidance": "A volunteer role. Show the people or cause served, what was organised or delivered, and transferable skills such as teamwork, care or leadership.",
+      "item_label": "volunteer role",
+      "fields": {
+        "title": {
+          "label": "Role",
+          "placeholder": "Food Bank Volunteer"
+        },
+        "organization": {
+          "label": "Organisation"
+        },
+        "location": {
+          "label": "Location"
+        },
+        "dates": "range",
+        "bullets": {
+          "label": "What you did",
+          "placeholder": "Coordinated weekend rotas for 20 volunteers"
+        }
+      }
+    },
+    {
+      "kind": "research",
+      "heading": "Research",
+      "standard_headings": [
+        "research",
+        "research experience",
+        "research projects",
+        "research interests"
+      ],
+      "hint": "Research projects, theses and lab or field work, with your role and methods.",
+      "bullet_guidance": "Research work. Show the question, the methods and tools used, your contribution, and the findings, outputs (papers, datasets, talks) or funding it led to.",
+      "item_label": "research project",
+      "fields": {
+        "title": {
+          "label": "Project or role",
+          "placeholder": "Doctoral research: soil microbiomes in drought"
+        },
+        "organization": {
+          "label": "Institution, lab or funder"
+        },
+        "location": {
+          "label": "Location"
+        },
+        "dates": "range",
+        "description": {
+          "label": "Summary"
+        },
+        "bullets": {
+          "label": "Contributions and methods"
+        }
+      }
+    },
+    {
+      "kind": "publications",
+      "heading": "Publications",
+      "standard_headings": [
+        "publications",
+        "selected publications",
+        "peer-reviewed publications",
+        "papers",
+        "articles"
+      ],
+      "hint": "Use your field's citation style. Put your name in the author list.",
+      "item_label": "publication",
+      "fields": {
+        "title": {
+          "label": "Title",
+          "placeholder": "Drought tolerance in wheat root systems"
+        },
+        "organization": {
+          "label": "Journal, publisher or venue",
+          "placeholder": "Journal of Plant Science"
+        },
+        "dates": "single",
+        "description": {
+          "label": "Authors and details",
+          "placeholder": "Shah P., Jones A. Vol. 12, pp. 44-58"
+        },
+        "link": {
+          "label": "Link or DOI",
+          "placeholder": "doi.org/10.1234/abcd"
+        }
+      }
+    },
+    {
+      "kind": "conferences",
+      "heading": "Conferences & Presentations",
+      "standard_headings": [
+        "conferences & presentations",
+        "conferences and presentations",
+        "conferences",
+        "presentations",
+        "talks",
+        "invited talks",
+        "conference presentations"
+      ],
+      "hint": "Talks, posters and panels you gave.",
+      "item_label": "presentation",
+      "fields": {
+        "title": {
+          "label": "Talk or poster title"
+        },
+        "organization": {
+          "label": "Conference or event"
+        },
+        "location": {
+          "label": "Location"
+        },
+        "dates": "single",
+        "link": {
+          "label": "Link"
+        }
+      }
+    },
+    {
+      "kind": "portfolio",
+      "heading": "Portfolio",
+      "standard_headings": [
+        "portfolio",
+        "selected work",
+        "work samples",
+        "case studies"
+      ],
+      "hint": "Pieces of work people can look at: designs, campaigns, writing, builds, photographs or case studies.",
+      "item_label": "piece of work",
+      "fields": {
+        "title": {
+          "label": "Title",
+          "placeholder": "Rebrand for a local bakery"
+        },
+        "organization": {
+          "label": "Client or context"
+        },
+        "dates": "single",
+        "description": {
+          "label": "What it is and your part in it"
+        },
+        "link": {
+          "label": "Link",
+          "placeholder": "yourportfolio.com/bakery"
+        }
+      }
+    },
+    {
+      "kind": "training",
+      "heading": "Training",
+      "standard_headings": [
+        "training",
+        "professional development",
+        "courses",
+        "continuing education",
+        "cpd",
+        "training and development"
+      ],
+      "hint": "Courses, workshops and continuing professional development.",
+      "item_label": "course",
+      "fields": {
+        "title": {
+          "label": "Course",
+          "placeholder": "Manual Handling"
+        },
+        "organization": {
+          "label": "Provider"
+        },
+        "dates": "single",
+        "description": {
+          "label": "Details"
+        }
+      }
+    },
+    {
+      "kind": "memberships",
+      "heading": "Professional Memberships",
+      "standard_headings": [
+        "professional memberships",
+        "memberships",
+        "professional affiliations",
+        "affiliations",
+        "professional associations"
+      ],
+      "hint": "Professional bodies and associations you belong to.",
+      "item_label": "membership",
+      "fields": {
+        "title": {
+          "label": "Organisation",
+          "placeholder": "Royal College of Nursing"
+        },
+        "organization": {
+          "label": "Membership level or role",
+          "placeholder": "Member"
+        },
+        "dates": "range"
+      }
+    },
+    {
+      "kind": "awards",
+      "heading": "Awards",
+      "standard_headings": [
+        "awards",
+        "honours",
+        "honors",
+        "awards and honours",
+        "awards and honors",
+        "scholarships"
+      ],
+      "hint": "Awards, honours, scholarships and prizes.",
+      "item_label": "award",
+      "fields": {
+        "title": {
+          "label": "Award",
+          "placeholder": "Employee of the Quarter"
+        },
+        "organization": {
+          "label": "Awarded by"
+        },
+        "dates": "single",
+        "description": {
+          "label": "What it was for"
+        }
+      }
+    },
+    {
+      "kind": "languages",
+      "heading": "Languages",
+      "standard_headings": [
+        "languages",
+        "language skills"
+      ],
+      "hint": "One language per row with how well you speak it.",
+      "item_label": "language",
+      "layout": "inline",
+      "fields": {
+        "title": {
+          "label": "Language",
+          "placeholder": "Spanish"
+        },
+        "organization": {
+          "label": "Level",
+          "placeholder": "Fluent"
+        }
+      }
+    },
+    {
+      "kind": "extracurriculars",
+      "heading": "Extracurricular Activities",
+      "standard_headings": [
+        "extracurricular activities",
+        "extracurriculars",
+        "activities",
+        "leadership and activities",
+        "clubs and societies",
+        "interests and activities"
+      ],
+      "hint": "Clubs, societies, sports teams and positions of responsibility.",
+      "bullet_guidance": "A club, society or activity. Show leadership, organising, teamwork or commitment, and the result for the group.",
+      "item_label": "activity",
+      "fields": {
+        "title": {
+          "label": "Role or activity",
+          "placeholder": "Captain, University Netball Team"
+        },
+        "organization": {
+          "label": "Club or society"
+        },
+        "dates": "range",
+        "bullets": {
+          "label": "What you did",
+          "placeholder": "Organised fundraising that paid for new kit for 15 players"
+        }
+      }
+    },
+    {
+      "kind": "custom",
+      "heading": "Additional Information",
+      "standard_headings": [],
+      "hint": "A section you name yourself.",
+      "bullet_guidance": "An entry in a section the candidate named. Match the section's heading and keep the bullet factual and specific.",
+      "item_label": "entry",
+      "repeatable": true,
+      "fields": {
+        "title": {
+          "label": "Title"
+        },
+        "organization": {
+          "label": "Organisation"
+        },
+        "location": {
+          "label": "Location"
+        },
+        "dates": "range",
+        "description": {
+          "label": "Description"
+        },
+        "bullets": {
+          "label": "Details"
+        },
+        "link": {
+          "label": "Link"
+        }
+      }
+    }
+  ],
+  "default_layout": [
+    "summary",
+    "experience",
+    "education",
+    "skills",
+    "certifications",
+    "projects"
+  ],
+  "type_presets": {
+    "cv": {
+      "first": [
+        "education"
+      ]
+    }
+  },
+  "level_presets": {
+    "student": {
+      "first": [
+        "education",
+        "projects",
+        "internships"
+      ],
+      "last": [
+        "extracurriculars"
+      ]
+    },
+    "entry": {
+      "last": [
+        "internships"
+      ]
+    },
+    "mid": {},
+    "senior": {
+      "last": [
+        "education"
+      ]
+    },
+    "career_changer": {
+      "first": [
+        "skills"
+      ],
+      "last": [
+        "training"
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "id": "summary",
+      "label": "Summary",
+      "kinds": [
+        "summary"
+      ],
+      "advice": "Add 2-3 sentences on who you are and the role you want. Many ATS rank by it.",
+      "levels": {
+        "student": {
+          "advice": "Add 2-3 sentences on what you're studying, when you finish and the role you want. Many ATS rank by it."
+        },
+        "career_changer": {
+          "advice": "Add 2-3 sentences on the field you're moving from, the role you want and the skills that carry over. Many ATS rank by it."
+        }
+      }
+    },
+    {
+      "id": "experience",
+      "label": "Experience",
+      "kinds": [
+        "experience",
+        "clinical_experience",
+        "teaching_experience",
+        "internships",
+        "projects"
+      ],
+      "advice": "Add work experience (or projects if you are early in your career).",
+      "levels": {
+        "student": {
+          "add_kinds": [
+            "volunteer",
+            "extracurriculars",
+            "research"
+          ],
+          "severity": "warn",
+          "advice": "Add part-time jobs, placements, volunteering or projects. Employers hiring students expect these instead of a long career."
+        },
+        "entry": {
+          "add_kinds": [
+            "volunteer"
+          ],
+          "advice": "Add your jobs so far, including part-time work, placements, volunteering or projects."
+        },
+        "career_changer": {
+          "advice": "Add your past roles. Your earlier career is experience too: its bullets should show the skills your new role needs."
+        }
+      }
+    },
+    {
+      "id": "education",
+      "label": "Education",
+      "kinds": [
+        "education"
+      ],
+      "advice": "Add your education. Most ATS filters check for it.",
+      "levels": {
+        "student": {
+          "advice": "Add your course, school and expected finish date. For students it's the first thing employers read."
+        },
+        "senior": {
+          "severity": "warn"
+        }
+      }
+    },
+    {
+      "id": "skills",
+      "label": "Skills",
+      "kinds": [
+        "skills"
+      ],
+      "advice": "Add a Skills section. ATS keyword matching relies on it heavily."
+    }
+  ],
+  "role_requirement": {
+    "advice": "{role} roles usually screen for this. Add a {heading} section.",
+    "levels": {
+      "student": {
+        "severity": "warn",
+        "advice": "{role} roles screen for this. Add a {heading} section, listing what you're working towards with the expected date."
+      }
+    }
+  },
+  "licence_skill_categories": [
+    "license",
+    "certification"
+  ],
+  "profile_links": [
+    {
+      "label": "LinkedIn",
+      "placeholder": "linkedin.com/in/you"
+    },
+    {
+      "label": "Personal website",
+      "placeholder": "yourname.com"
+    },
+    {
+      "label": "Portfolio",
+      "placeholder": "yourportfolio.com"
+    },
+    {
+      "label": "GitHub",
+      "placeholder": "github.com/you"
+    },
+    {
+      "label": "GitLab",
+      "placeholder": "gitlab.com/you"
+    },
+    {
+      "label": "Behance",
+      "placeholder": "behance.net/you"
+    },
+    {
+      "label": "Dribbble",
+      "placeholder": "dribbble.com/you"
+    },
+    {
+      "label": "Instagram",
+      "placeholder": "instagram.com/you"
+    },
+    {
+      "label": "ORCID",
+      "placeholder": "orcid.org/0000-0000-0000-0000"
+    },
+    {
+      "label": "Google Scholar",
+      "placeholder": "scholar.google.com/citations?user=…"
+    },
+    {
+      "label": "ResearchGate",
+      "placeholder": "researchgate.net/profile/You"
+    },
+    {
+      "label": "Medium",
+      "placeholder": "medium.com/@you"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{% include "_candidate.j2" %}
+Section: {{ section.heading }}
+{% if section.guidance %}
+A strong bullet in this section: {{ section.guidance }}
+{% endif %}
+Entry: {{ position or "not specified" }}
+{% if tools %}
+Tools and methods used in this entry: {{ tools | join(", ") }}
+{% endif %}
+
+Original bullet:
+<bullet>
+{{ bullet }}
+</bullet>

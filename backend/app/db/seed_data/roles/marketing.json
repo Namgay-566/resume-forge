@@ -1,0 +1,236 @@
+[
+  {
+    "industry": "marketing",
+    "slug": "marketing-coordinator",
+    "name": "Marketing Coordinator",
+    "seniority": "mid",
+    "description": "Keeps campaigns, content and events running on schedule and supports the wider marketing team.",
+    "skills": [
+      {
+        "skill": "campaign-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "organisation",
+        "importance": "critical"
+      },
+      {
+        "skill": "social-media-marketing",
+        "importance": "important"
+      },
+      {
+        "skill": "email-marketing",
+        "importance": "important"
+      },
+      {
+        "skill": "content-writing",
+        "importance": "important"
+      },
+      {
+        "skill": "marketing-analytics",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "microsoft-office",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "marketing",
+    "slug": "digital-marketing-specialist",
+    "name": "Digital Marketing Specialist",
+    "seniority": "mid",
+    "description": "Plans and runs online campaigns across search, social and email, and measures what works.",
+    "skills": [
+      {
+        "skill": "digital-marketing",
+        "importance": "critical"
+      },
+      {
+        "skill": "paid-advertising",
+        "importance": "critical"
+      },
+      {
+        "skill": "marketing-analytics",
+        "importance": "critical"
+      },
+      {
+        "skill": "seo",
+        "importance": "important"
+      },
+      {
+        "skill": "email-marketing",
+        "importance": "important"
+      },
+      {
+        "skill": "social-media-marketing",
+        "importance": "important"
+      },
+      {
+        "skill": "content-writing",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "critical-thinking",
+        "importance": "important"
+      },
+      {
+        "skill": "budgeting",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "marketing",
+    "slug": "social-media-manager",
+    "name": "Social Media Manager",
+    "seniority": "senior",
+    "description": "Builds an audience and community on social platforms with a consistent voice and a content calendar.",
+    "skills": [
+      {
+        "skill": "social-media-marketing",
+        "importance": "critical"
+      },
+      {
+        "skill": "content-writing",
+        "importance": "critical"
+      },
+      {
+        "skill": "marketing-analytics",
+        "importance": "important"
+      },
+      {
+        "skill": "brand-management",
+        "importance": "important"
+      },
+      {
+        "skill": "graphic-design",
+        "importance": "important"
+      },
+      {
+        "skill": "communication",
+        "importance": "important"
+      },
+      {
+        "skill": "paid-advertising",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "marketing",
+    "slug": "content-writer",
+    "name": "Content Writer",
+    "seniority": "mid",
+    "description": "Writes clear, engaging articles, web pages and marketing copy for a target audience.",
+    "skills": [
+      {
+        "skill": "content-writing",
+        "importance": "critical"
+      },
+      {
+        "skill": "written-communication",
+        "importance": "critical"
+      },
+      {
+        "skill": "seo",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "market-research",
+        "importance": "nice_to_have"
+      },
+      {
+        "skill": "time-management",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "marketing",
+    "slug": "seo-specialist",
+    "name": "SEO Specialist",
+    "seniority": "mid",
+    "description": "Improves how a website ranks in search engines through content, technical fixes and links.",
+    "skills": [
+      {
+        "skill": "seo",
+        "importance": "critical"
+      },
+      {
+        "skill": "marketing-analytics",
+        "importance": "critical"
+      },
+      {
+        "skill": "content-writing",
+        "importance": "important"
+      },
+      {
+        "skill": "digital-marketing",
+        "importance": "important"
+      },
+      {
+        "skill": "spreadsheets",
+        "importance": "important"
+      },
+      {
+        "skill": "attention-to-detail",
+        "importance": "important"
+      },
+      {
+        "skill": "html-css",
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "industry": "marketing",
+    "slug": "marketing-manager",
+    "name": "Marketing Manager",
+    "seniority": "senior",
+    "description": "Sets marketing strategy and budgets, leads the team and is accountable for results.",
+    "skills": [
+      {
+        "skill": "brand-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "campaign-management",
+        "importance": "critical"
+      },
+      {
+        "skill": "leadership",
+        "importance": "critical"
+      },
+      {
+        "skill": "budgeting",
+        "importance": "important"
+      },
+      {
+        "skill": "marketing-analytics",
+        "importance": "important"
+      },
+      {
+        "skill": "market-research",
+        "importance": "important"
+      },
+      {
+        "skill": "stakeholder-management",
+        "importance": "important"
+      },
+      {
+        "skill": "presentation-skills",
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

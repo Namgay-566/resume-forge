@@ -1,0 +1,23 @@
+{% include "_candidate.j2" %}
+Evidence type: {% if kind == "portfolio" %}a public portfolio or work page{% elif kind == "work_sample" %}an uploaded work sample{% else %}a publication{% endif %}
+
+Skills the candidate claims this shows:
+{% for skill in skills %}
+- {{ skill }}
+{% endfor %}
+{% if details %}
+
+Details we gathered:
+{% for label, value in details.items() %}
+- {{ label }}: {{ value }}
+{% endfor %}
+{% endif %}
+
+{% if text %}
+The work:
+<document>
+{{ text }}
+</document>
+{% else %}
+The work is the attached image.
+{% endif %}

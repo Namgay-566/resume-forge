@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "call-handling",
+    "name": "Call Handling",
+    "category": "practice",
+    "aliases": [
+      "phone etiquette",
+      "inbound calls",
+      "call centre",
+      "call center"
+    ]
+  },
+  {
+    "slug": "complaint-resolution",
+    "name": "Complaint Resolution",
+    "category": "practice",
+    "aliases": [
+      "handling complaints",
+      "escalations",
+      "service recovery"
+    ]
+  },
+  {
+    "slug": "customer-success",
+    "name": "Customer Success",
+    "category": "practice",
+    "aliases": [
+      "onboarding customers",
+      "customer retention",
+      "churn reduction",
+      "renewals"
+    ]
+  },
+  {
+    "slug": "reception-duties",
+    "name": "Reception Duties",
+    "category": "practice",
+    "aliases": [
+      "front desk",
+      "greeting visitors",
+      "switchboard",
+      "appointment booking"
+    ]
+  },
+  {
+    "slug": "typing-speed",
+    "name": "Fast, Accurate Typing",
+    "category": "practice",
+    "aliases": [
+      "typing",
+      "wpm"
+    ]
+  }
+]

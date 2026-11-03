@@ -1,0 +1,13 @@
+Candidate skills (choose only from these):
+{% for skill in skills %}
+- {{ skill }}
+{% endfor %}
+
+{% if text %}
+Licence text (extracted from the file):
+<document>
+{{ text }}
+</document>
+{% else %}
+The licence is the attached image.
+{% endif %}

@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>{{ title }}</title>
+{% if doc.name %}<meta name="author" content="{{ doc.name }}">{% endif %}
+<style>
+body { margin: 0; }
+{{ css }}
+</style>
+</head>
+<body>
+{#- Keep this markup identical to frontend/src/features/resumes/preview/resume-preview.tsx. #}
+<article class="rf-resume rf-template-{{ template }}">
+  <div class="rf-identity">
+    {%- if doc.name %}<h1 class="rf-name">{{ doc.name }}</h1>{% endif %}
+    {%- if doc.headline %}<p class="rf-headline">{{ doc.headline }}</p>{% endif %}
+    {%- if doc.contact %}<p class="rf-contact">{{ doc.contact | join(" | ") }}</p>{% endif %}
+  </div>
+  {%- for section in doc.sections %}
+  <section class="rf-section">
+    <h2 class="rf-heading">{{ section.heading }}</h2>
+    {%- if section.text %}<p class="rf-text">{{ section.text }}</p>{% endif %}
+    {%- for line in section.extra %}<p class="rf-text">{{ line }}</p>{% endfor %}
+    {%- for entry in section.entries %}
+    <div class="rf-entry">
+      <div class="rf-entry-head">
+        <span class="rf-entry-title">{{ entry.title }}</span>
+        {%- if entry.date %}<span class="rf-entry-date">{{ entry.date }}</span>{% endif %}
+      </div>
+      {%- if entry.subtitle %}<p class="rf-entry-sub">{{ entry.subtitle }}</p>{% endif %}
+      {%- if entry.link %}<p class="rf-entry-link">{{ entry.link }}</p>{% endif %}
+      {%- if entry.description %}<p class="rf-text">{{ entry.description }}</p>{% endif %}
+      {%- if entry.bullets %}
+      <ul class="rf-bullets">
+        {%- for bullet in entry.bullets %}<li>{{ bullet }}</li>{% endfor %}
+      </ul>
+      {%- endif %}
+      {%- if entry.tools %}<p class="rf-tools">Tools: {{ entry.tools | join(", ") }}</p>{% endif %}
+    </div>
+    {%- endfor %}
+    {%- if section.items %}
+    <ul class="rf-bullets">
+      {%- for item in section.items %}<li>{{ item }}</li>{% endfor %}
+    </ul>
+    {%- endif %}
+  </section>
+  {%- endfor %}
+</article>
+</body>
+</html>
